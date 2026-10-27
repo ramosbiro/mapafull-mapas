@@ -1,0 +1,195 @@
+{
+ "versao": 1,
+ "gerado": "2026-10-27",
+ "fonte": "Mapas: © colaboradores do OpenStreetMap (ODbL), tiles no padrão OpenMapTiles gerados com tilemaker.",
+ "paises": [
+  {
+   "id": "br",
+   "nome": "Brasil",
+   "bandeira": "🇧🇷",
+   "continente": "america-do-sul",
+   "regioes": [
+    {
+     "id": "br-norte",
+     "nome": "Norte",
+     "capital": "Manaus",
+     "estados": [
+      {
+       "id": "br-ac",
+       "nome": "Acre",
+       "sigla": "AC"
+      },
+      {
+       "id": "br-ap",
+       "nome": "Amapá",
+       "sigla": "AP"
+      },
+      {
+       "id": "br-am",
+       "nome": "Amazonas",
+       "sigla": "AM"
+      },
+      {
+       "id": "br-pa",
+       "nome": "Pará",
+       "sigla": "PA"
+      },
+      {
+       "id": "br-ro",
+       "nome": "Rondônia",
+       "sigla": "RO"
+      },
+      {
+       "id": "br-rr",
+       "nome": "Roraima",
+       "sigla": "RR"
+      },
+      {
+       "id": "br-to",
+       "nome": "Tocantins",
+       "sigla": "TO"
+      }
+     ]
+    },
+    {
+     "id": "br-nordeste",
+     "nome": "Nordeste",
+     "capital": "Salvador",
+     "estados": [
+      {
+       "id": "br-al",
+       "nome": "Alagoas",
+       "sigla": "AL"
+      },
+      {
+       "id": "br-ba",
+       "nome": "Bahia",
+       "sigla": "BA"
+      },
+      {
+       "id": "br-ce",
+       "nome": "Ceará",
+       "sigla": "CE"
+      },
+      {
+       "id": "br-ma",
+       "nome": "Maranhão",
+       "sigla": "MA"
+      },
+      {
+       "id": "br-pb",
+       "nome": "Paraíba",
+       "sigla": "PB"
+      },
+      {
+       "id": "br-pe",
+       "nome": "Pernambuco",
+       "sigla": "PE"
+      },
+      {
+       "id": "br-pi",
+       "nome": "Piauí",
+       "sigla": "PI"
+      },
+      {
+       "id": "br-rn",
+       "nome": "Rio Grande do Norte",
+       "sigla": "RN"
+      },
+      {
+       "id": "br-se",
+       "nome": "Sergipe",
+       "sigla": "SE"
+      }
+     ]
+    },
+    {
+     "id": "br-centro-oeste",
+     "nome": "Centro-Oeste",
+     "capital": "Brasília",
+     "estados": [
+      {
+       "id": "br-df",
+       "nome": "Distrito Federal",
+       "sigla": "DF"
+      },
+      {
+       "id": "br-go",
+       "nome": "Goiás",
+       "sigla": "GO"
+      },
+      {
+       "id": "br-mt",
+       "nome": "Mato Grosso",
+       "sigla": "MT"
+      },
+      {
+       "id": "br-ms",
+       "nome": "Mato Grosso do Sul",
+       "sigla": "MS"
+      }
+     ]
+    },
+    {
+     "id": "br-sudeste",
+     "nome": "Sudeste",
+     "capital": "São Paulo",
+     "estados": [
+      {
+       "id": "br-es",
+       "nome": "Espírito Santo",
+       "sigla": "ES"
+      },
+      {
+       "id": "br-mg",
+       "nome": "Minas Gerais",
+       "sigla": "MG"
+      },
+      {
+       "id": "br-rj",
+       "nome": "Rio de Janeiro",
+       "sigla": "RJ"
+      },
+      {
+       "id": "br-sp",
+       "nome": "São Paulo",
+       "sigla": "SP",
+       "tamanho": 306556621,
+       "sha256": "e8dbe9a22c0e07752a085283618c93bff958b6750f43a8226ec113522b32a340",
+       "bbox": [
+        -53.1052,
+        -25.3089,
+        -44.1656,
+        -19.7862
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-sp.pmtiles"
+      }
+     ]
+    },
+    {
+     "id": "br-sul",
+     "nome": "Sul",
+     "capital": "Curitiba",
+     "estados": [
+      {
+       "id": "br-pr",
+       "nome": "Paraná",
+       "sigla": "PR"
+      },
+      {
+       "id": "br-rs",
+       "nome": "Rio Grande do Sul",
+       "sigla": "RS"
+      },
+      {
+       "id": "br-sc",
+       "nome": "Santa Catarina",
+       "sigla": "SC"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
