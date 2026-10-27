@@ -17,37 +17,107 @@
       {
        "id": "br-ac",
        "nome": "Acre",
-       "sigla": "AC"
+       "sigla": "AC",
+       "tamanho": 32478345,
+       "sha256": "eff6456ea47b02de64afd73e0bccebe040bcfa7a97ceebed43b89c4bb444929f",
+       "bbox": [
+        -74.0577,
+        -11.21934,
+        -66.55214,
+        -7.03693
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-ac.pmtiles"
       },
       {
        "id": "br-ap",
        "nome": "Amapá",
-       "sigla": "AP"
+       "sigla": "AP",
+       "tamanho": 14112213,
+       "sha256": "5132d7310f35e8f52593278aa4eab9aff6289d45be978f54384ddb2581e61a77",
+       "bbox": [
+        -54.94073,
+        -1.28777,
+        -49.80826,
+        4.58355
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-ap.pmtiles"
       },
       {
        "id": "br-am",
        "nome": "Amazonas",
-       "sigla": "AM"
+       "sigla": "AM",
+       "tamanho": 114111201,
+       "sha256": "a4ef74946655a40d8717bc35a871437cde8cd414c7a310bc309c7ea2097a18b1",
+       "bbox": [
+        -73.87641,
+        -9.89287,
+        -56.02524,
+        2.31815
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-am.pmtiles"
       },
       {
        "id": "br-pa",
        "nome": "Pará",
-       "sigla": "PA"
+       "sigla": "PA",
+       "tamanho": 109311654,
+       "sha256": "8388c295c388ce575c2f444f5d070ace17aaf90f86c86cdbb833a3265df2dbb9",
+       "bbox": [
+        -58.9705,
+        -9.91604,
+        -45.98843,
+        2.6587
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-pa.pmtiles"
       },
       {
        "id": "br-ro",
        "nome": "Rondônia",
-       "sigla": "RO"
+       "sigla": "RO",
+       "tamanho": 27922227,
+       "sha256": "ffcc43c64dceaf64dc2c7723eb881536d9792806f92c0697e879870e7ad68be8",
+       "bbox": [
+        -66.88131,
+        -13.76786,
+        -59.70627,
+        -7.9015
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-ro.pmtiles"
       },
       {
        "id": "br-rr",
        "nome": "Roraima",
-       "sigla": "RR"
+       "sigla": "RR",
+       "tamanho": 20506310,
+       "sha256": "4c6717708fa66d473946eda2a1dea3e9164a1419a1e3674df49c5ffa12ebeae4",
+       "bbox": [
+        -64.88295,
+        -1.64831,
+        -58.8205,
+        5.34633
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-rr.pmtiles"
       },
       {
        "id": "br-to",
        "nome": "Tocantins",
-       "sigla": "TO"
+       "sigla": "TO",
+       "tamanho": 37417289,
+       "sha256": "13acf88c7126b32fc4ce4b6c854a817b3323d551934e5110c0324ac6bc5f7819",
+       "bbox": [
+        -50.81286,
+        -13.54282,
+        -45.62547,
+        -5.09495
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-to.pmtiles"
       }
      ]
     },
