@@ -205,17 +205,47 @@
       {
        "id": "br-pr",
        "nome": "Paraná",
-       "sigla": "PR"
+       "sigla": "PR",
+       "tamanho": 183113364,
+       "sha256": "372e22b7760d88e71a70ee2c27c50418da40b353c56c6f5cc9ae6f5f85186c59",
+       "bbox": [
+        -54.69284,
+        -26.78748,
+        -48.02776,
+        -22.45243
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-pr.pmtiles"
       },
       {
        "id": "br-rs",
        "nome": "Rio Grande do Sul",
-       "sigla": "RS"
+       "sigla": "RS",
+       "tamanho": 160922467,
+       "sha256": "4f9e9ae4454bc418d7e8328138fff99ed7201ebf18fc82250b6d8c208e1b7728",
+       "bbox": [
+        -57.66909,
+        -33.8188,
+        -49.63067,
+        -27.01953
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-rs.pmtiles"
       },
       {
        "id": "br-sc",
        "nome": "Santa Catarina",
-       "sigla": "SC"
+       "sigla": "SC",
+       "tamanho": 149164135,
+       "sha256": "c8f7837928b04e33601a8bf07287d9bda7fb9fa7b8536f2b18ef3ba36685cb05",
+       "bbox": [
+        -53.90867,
+        -29.42837,
+        -48.29584,
+        -25.90204
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-sc.pmtiles"
       }
      ]
     }
