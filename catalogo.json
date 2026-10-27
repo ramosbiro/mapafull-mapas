@@ -59,47 +59,137 @@
       {
        "id": "br-al",
        "nome": "Alagoas",
-       "sigla": "AL"
+       "sigla": "AL",
+       "tamanho": 21388846,
+       "sha256": "6d1506972e941fa05f9b42ddf97284f61641b090348c60a92dfcf7748e784639",
+       "bbox": [
+        -38.30719,
+        -10.57085,
+        -35.07804,
+        -8.74672
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-al.pmtiles"
       },
       {
        "id": "br-ba",
        "nome": "Bahia",
-       "sigla": "BA"
+       "sigla": "BA",
+       "tamanho": 169367229,
+       "sha256": "16a6488b0a7df10d458278c177235918b10d296faaa48f54a9b7ad0f50e24beb",
+       "bbox": [
+        -46.63139,
+        -18.4112,
+        -37.26688,
+        -8.47252
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-ba.pmtiles"
       },
       {
        "id": "br-ce",
        "nome": "Ceará",
-       "sigla": "CE"
+       "sigla": "CE",
+       "tamanho": 94841319,
+       "sha256": "8443fc4ff22933f6803dba6eccbd4a46bd45a38c1aaeda9198461dd59dcd702b",
+       "bbox": [
+        -41.4849,
+        -7.93187,
+        -37.17847,
+        -2.72884
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-ce.pmtiles"
       },
       {
        "id": "br-ma",
        "nome": "Maranhão",
-       "sigla": "MA"
+       "sigla": "MA",
+       "tamanho": 61711884,
+       "sha256": "6a326947107ed2c44481a8870d830de81338fdc27619b85c0b60dbf498cdec10",
+       "bbox": [
+        -48.82884,
+        -10.3292,
+        -41.723,
+        -0.97859
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-ma.pmtiles"
       },
       {
        "id": "br-pb",
        "nome": "Paraíba",
-       "sigla": "PB"
+       "sigla": "PB",
+       "tamanho": 46778525,
+       "sha256": "034e9deda7afbd991d1777ab4bdbacdebc679cc2d28e9b121e3c4d7b2cb9ab2f",
+       "bbox": [
+        -38.8402,
+        -8.37344,
+        -34.72772,
+        -5.95551
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-pb.pmtiles"
       },
       {
        "id": "br-pe",
        "nome": "Pernambuco",
-       "sigla": "PE"
+       "sigla": "PE",
+       "tamanho": 67208439,
+       "sha256": "e48f0be0247d8bcdac263abc9d3e3386757fd0d0009f5a9779c2932a5d05a56a",
+       "bbox": [
+        -41.42922,
+        -9.55322,
+        -34.7579,
+        -7.20511
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-pe.pmtiles"
       },
       {
        "id": "br-pi",
        "nome": "Piauí",
-       "sigla": "PI"
+       "sigla": "PI",
+       "tamanho": 65145875,
+       "sha256": "373eefe59dde2b842fad20fe02229aa447d6ad19ba73ceb42ee785735f8bacfc",
+       "bbox": [
+        -46.084,
+        -10.99384,
+        -40.29879,
+        -2.68232
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-pi.pmtiles"
       },
       {
        "id": "br-rn",
        "nome": "Rio Grande do Norte",
-       "sigla": "RN"
+       "sigla": "RN",
+       "tamanho": 26813559,
+       "sha256": "a9e9c5dbe198e071283c280dacc884d60a8e259c2d91c34f37bbaa4c5e199d71",
+       "bbox": [
+        -38.64481,
+        -7.00257,
+        -34.89351,
+        -4.75746
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-rn.pmtiles"
       },
       {
        "id": "br-se",
        "nome": "Sergipe",
-       "sigla": "SE"
+       "sigla": "SE",
+       "tamanho": 18648573,
+       "sha256": "55419db810e3d3b61bdc30408041961ef206a22edcf6dcfb7a39db3552d36bab",
+       "bbox": [
+        -38.31165,
+        -11.64346,
+        -36.32109,
+        -9.44087
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-se.pmtiles"
       }
      ]
     },
