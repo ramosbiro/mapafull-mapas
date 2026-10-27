@@ -205,15 +205,15 @@
        "id": "br-pe",
        "nome": "Pernambuco",
        "sigla": "PE",
-       "tamanho": 67208439,
-       "sha256": "e48f0be0247d8bcdac263abc9d3e3386757fd0d0009f5a9779c2932a5d05a56a",
+       "tamanho": 67521959,
+       "sha256": "8ff2e7def6a28d195030a57b8d86485c9ce1b0409333bc6c32adcd58d8590b3a",
        "bbox": [
         -41.42922,
         -9.55322,
-        -34.7579,
-        -7.20511
+        -32.33,
+        -3.79
        ],
-       "versao": "2026-10-27",
+       "versao": "2026-10-27.2",
        "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-pe.pmtiles"
       },
       {
