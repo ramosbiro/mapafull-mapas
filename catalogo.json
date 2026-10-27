@@ -111,22 +111,62 @@
       {
        "id": "br-df",
        "nome": "Distrito Federal",
-       "sigla": "DF"
+       "sigla": "DF",
+       "tamanho": 33243447,
+       "sha256": "353fe53006b5b2bfd9b336a5d3de5719aa36e6a067b69b21b5c97d219e14e348",
+       "bbox": [
+        -48.35386,
+        -16.125,
+        -47.23545,
+        -15.4269
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-df.pmtiles"
       },
       {
        "id": "br-go",
        "nome": "Goiás",
-       "sigla": "GO"
+       "sigla": "GO",
+       "tamanho": 98926391,
+       "sha256": "4c02b9bf16688446c834032561b4b9e79e78e4598baee07afa43fb6afdd66d50",
+       "bbox": [
+        -53.31647,
+        -19.54819,
+        -45.83229,
+        -12.32307
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-go.pmtiles"
       },
       {
        "id": "br-mt",
        "nome": "Mato Grosso",
-       "sigla": "MT"
+       "sigla": "MT",
+       "tamanho": 114786760,
+       "sha256": "3bf4a5eed8568f688c1def8edb55c8e081cfa2b9c0cf5db2edd5486535714068",
+       "bbox": [
+        -61.70219,
+        -18.11477,
+        -50.15497,
+        -7.28168
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-mt.pmtiles"
       },
       {
        "id": "br-ms",
        "nome": "Mato Grosso do Sul",
-       "sigla": "MS"
+       "sigla": "MS",
+       "tamanho": 56579897,
+       "sha256": "3572bc5aee9c6f3dd6ed49c397a2d5ff272ed099942c87da2a44ac72aa2d0c34",
+       "bbox": [
+        -58.24261,
+        -24.14284,
+        -50.86005,
+        -17.0983
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-ms.pmtiles"
       }
      ]
     },
