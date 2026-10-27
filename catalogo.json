@@ -138,29 +138,59 @@
       {
        "id": "br-es",
        "nome": "Espírito Santo",
-       "sigla": "ES"
+       "sigla": "ES",
+       "tamanho": 257808316,
+       "sha256": "c98865fe30226b19d6980fcebe0b328b44d9551f37c1b55bd58fb21c0af8696d",
+       "bbox": [
+        -41.94952,
+        -21.37609,
+        -39.59665,
+        -17.81959
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-es.pmtiles"
       },
       {
        "id": "br-mg",
        "nome": "Minas Gerais",
-       "sigla": "MG"
+       "sigla": "MG",
+       "tamanho": 346648652,
+       "sha256": "3c5f2db704bc4232556658713edc04dd5137a4b47dbd58a383ea01757427a7ac",
+       "bbox": [
+        -51.11312,
+        -22.97775,
+        -39.78618,
+        -14.18036
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-mg.pmtiles"
       },
       {
        "id": "br-rj",
        "nome": "Rio de Janeiro",
-       "sigla": "RJ"
+       "sigla": "RJ",
+       "tamanho": 75721903,
+       "sha256": "ead886f8ca65c1177b3152a79dbcbdc52cfd4c2a2b1bd5c080e44ccc1c42ecec",
+       "bbox": [
+        -44.95721,
+        -23.44241,
+        -40.8902,
+        -20.69576
+       ],
+       "versao": "2026-10-27",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-rj.pmtiles"
       },
       {
        "id": "br-sp",
        "nome": "São Paulo",
        "sigla": "SP",
-       "tamanho": 306556621,
-       "sha256": "e8dbe9a22c0e07752a085283618c93bff958b6750f43a8226ec113522b32a340",
+       "tamanho": 317158981,
+       "sha256": "a168d5125f58e898a7ece6e96382f30d4a44e87ab37fa9c828ba721eabd0e1c0",
        "bbox": [
-        -53.1052,
-        -25.3089,
-        -44.1656,
-        -19.7862
+        -53.1802,
+        -25.38382,
+        -44.0906,
+        -19.71249
        ],
        "versao": "2026-10-27",
        "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-27/br-sp.pmtiles"
