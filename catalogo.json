@@ -1612,132 +1612,392 @@
     {
      "id": "fr-aquitaine",
      "nome": "Aquitânia",
-     "sigla": "Bordeaux"
+     "sigla": "Bordeaux",
+     "tamanho": 194389137,
+     "sha256": "be15abb7a29480771c60ba94cec0d0c83de6252fa8128697ff90d1558a5f6aca",
+     "bbox": [
+      -1.842771,
+      42.61155,
+      1.450577,
+      45.71724
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-aquitaine.pmtiles"
     },
     {
      "id": "fr-auvergne",
      "nome": "Auvérnia",
-     "sigla": "Clermont-Ferrand"
+     "sigla": "Clermont-Ferrand",
+     "tamanho": 120546342,
+     "sha256": "2c2abdb3fff4735686ad6270a9ef0c63962d838e73ce243ca566ec181d772bed",
+     "bbox": [
+      2.060519,
+      44.6146,
+      4.492907,
+      46.80668
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-auvergne.pmtiles"
     },
     {
      "id": "fr-basse-normandie",
      "nome": "Baixa Normandia",
-     "sigla": "Caen"
+     "sigla": "Caen",
+     "tamanho": 97289763,
+     "sha256": "fae942027d9180e0c0a591653d72c1f0be8942c015528be0f4306c8096c9faea",
+     "bbox": [
+      -2.087526,
+      48.17802,
+      0.979067,
+      49.88523
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-basse-normandie.pmtiles"
     },
     {
      "id": "fr-bourgogne",
      "nome": "Borgonha",
-     "sigla": "Dijon"
+     "sigla": "Dijon",
+     "tamanho": 158704704,
+     "sha256": "f290ea86f3a2b91b8b602b90fe70f905527349b6f03bf59891da6506a14f5ad6",
+     "bbox": [
+      2.843279,
+      46.15484,
+      5.519965,
+      48.40136
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-bourgogne.pmtiles"
     },
     {
      "id": "fr-bretagne",
      "nome": "Bretanha",
-     "sigla": "Rennes"
+     "sigla": "Rennes",
+     "tamanho": 191625614,
+     "sha256": "071789128b3598fc4b905e6fbd1661060e39cf1b58a0e4352e9126d12627ffc3",
+     "bbox": [
+      -5.883925,
+      47.07722,
+      -1.0145379,
+      49.414549
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-bretagne.pmtiles"
     },
     {
      "id": "fr-centre",
      "nome": "Centro-Vale do Loire",
-     "sigla": "Orléans, Tours"
+     "sigla": "Orléans, Tours",
+     "tamanho": 172663370,
+     "sha256": "1f1987534d16f1301f31322897b263a42e5b0ce5e698ca80766fd215b183c3ea",
+     "bbox": [
+      0.051538,
+      46.34591,
+      3.129925,
+      48.9423
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-centre.pmtiles"
     },
     {
      "id": "fr-champagne-ardenne",
      "nome": "Champagne-Ardenne",
-     "sigla": "Reims"
+     "sigla": "Reims",
+     "tamanho": 82492840,
+     "sha256": "91b57fb54f67efaf1d64fb20504ff4d55b7962da48868af5109b35f01fecba17",
+     "bbox": [
+      3.382419,
+      47.57553,
+      5.892182,
+      50.22065
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-champagne-ardenne.pmtiles"
     },
     {
      "id": "fr-corse",
      "nome": "Córsega",
-     "sigla": "Ajaccio"
+     "sigla": "Ajaccio",
+     "tamanho": 27659524,
+     "sha256": "ffa1548c9ba0e8652f8915b68ead5615f90d3659064b6865dbe0d56830b8a741",
+     "bbox": [
+      8.317882,
+      41.31103,
+      9.751243,
+      43.16589
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-corse.pmtiles"
     },
     {
      "id": "fr-franche-comte",
      "nome": "Franco-Condado",
-     "sigla": "Besançon"
+     "sigla": "Besançon",
+     "tamanho": 90283733,
+     "sha256": "8bf0cf14ce076f492ac999bc42b06bd329c3cafa3c26a7b1a7b174ca391dffc8",
+     "bbox": [
+      5.25076,
+      46.25975,
+      7.14439,
+      48.02537
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-franche-comte.pmtiles"
     },
     {
      "id": "fr-haute-normandie",
      "nome": "Alta Normandia",
-     "sigla": "Rouen"
+     "sigla": "Rouen",
+     "tamanho": 67148155,
+     "sha256": "4141e95407595888ebbb3f4e19bd0eae446733710951cccbb3a577a5b4281402",
+     "bbox": [
+      0.009482,
+      48.66574,
+      1.803956,
+      50.08769
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-haute-normandie.pmtiles"
     },
     {
      "id": "fr-ile-de-france",
      "nome": "Île-de-France",
-     "sigla": "Paris"
+     "sigla": "Paris",
+     "tamanho": 148158553,
+     "sha256": "38a3855db06b84db59e410014e81e95c3637bf162ef5fa8a2a871dcd9ac44bda",
+     "bbox": [
+      1.445097,
+      48.11918,
+      3.560409,
+      49.24271
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-ile-de-france.pmtiles"
     },
     {
      "id": "fr-languedoc-roussillon",
      "nome": "Languedoc-Roussillon",
-     "sigla": "Montpellier"
+     "sigla": "Montpellier",
+     "tamanho": 166614815,
+     "sha256": "acf9eb458e58fc223a20564044962ebadf354112191b79c4a461b6a45cab8ae3",
+     "bbox": [
+      1.686256,
+      42.16658,
+      4.847979,
+      44.97821
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-languedoc-roussillon.pmtiles"
     },
     {
      "id": "fr-limousin",
      "nome": "Limousin",
-     "sigla": "Limoges"
+     "sigla": "Limoges",
+     "tamanho": 80224880,
+     "sha256": "69c120e87c33636f8ec03e203e1fa4ccb199151b97fc76c81a2ef3de9db95f00",
+     "bbox": [
+      0.627097,
+      44.91842,
+      2.61384,
+      46.45781
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-limousin.pmtiles"
     },
     {
      "id": "fr-lorraine",
      "nome": "Lorena",
-     "sigla": "Nancy, Metz"
+     "sigla": "Nancy, Metz",
+     "tamanho": 117568354,
+     "sha256": "64459bad82c6865abda817c4a92399108fd367f430e22532538fb46c2d463206",
+     "bbox": [
+      4.886022,
+      47.81188,
+      7.689503,
+      49.61949
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-lorraine.pmtiles"
     },
     {
      "id": "fr-midi-pyrenees",
      "nome": "Midi-Pyrénées",
-     "sigla": "Toulouse"
+     "sigla": "Toulouse",
+     "tamanho": 249897000,
+     "sha256": "4c5aad2028d9e69d45f82c23e26694a9e5d5c6d98716d4f9d01731212f5def81",
+     "bbox": [
+      -0.327537,
+      42.53333,
+      3.453264,
+      45.04779
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-midi-pyrenees.pmtiles"
     },
     {
      "id": "fr-nord-pas-de-calais",
      "nome": "Nord-Pas-de-Calais",
-     "sigla": "Lille"
+     "sigla": "Lille",
+     "tamanho": 127269029,
+     "sha256": "bc1955be30068cff417d22544a6cd5135365f1b07a85a589e15cad0f15044076",
+     "bbox": [
+      1.278311,
+      49.96764,
+      4.273287,
+      51.28121
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-nord-pas-de-calais.pmtiles"
     },
     {
      "id": "fr-pays-de-la-loire",
      "nome": "Países do Loire",
-     "sigla": "Nantes"
+     "sigla": "Nantes",
+     "tamanho": 215848775,
+     "sha256": "43875f3b39e79703b7dc662adfea8db2ebc6e5cab5e481a14b3941010ba5bdf7",
+     "bbox": [
+      -2.674666,
+      46.21875,
+      0.918996,
+      48.57002
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-pays-de-la-loire.pmtiles"
     },
     {
      "id": "fr-picardie",
      "nome": "Picardia",
-     "sigla": "Amiens"
+     "sigla": "Amiens",
+     "tamanho": 94508681,
+     "sha256": "76cfbf87358f2fddefa9c6d10704092fc181b0f8b8bb0fe025279fb8ee185c40",
+     "bbox": [
+      1.360085,
+      48.83599,
+      4.256744,
+      50.37125
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-picardie.pmtiles"
     },
     {
      "id": "fr-poitou-charentes",
      "nome": "Poitou-Charentes",
-     "sigla": "Poitiers"
+     "sigla": "Poitiers",
+     "tamanho": 132669731,
+     "sha256": "9b3882e283fd57fcf01a37802dc2896a8297218eafb959d25e0ad65c7205c0f6",
+     "bbox": [
+      -1.898565,
+      45.0868,
+      1.214991,
+      47.17837
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-poitou-charentes.pmtiles"
     },
     {
      "id": "fr-provence-alpes-cote-d-azur",
      "nome": "Provença-Alpes-Costa Azul",
-     "sigla": "Marselha, Nice"
+     "sigla": "Marselha, Nice",
+     "tamanho": 209810545,
+     "sha256": "abc39303d7456ebfa5c6d866bec331f954d2547ea6a5f6fe9ddcfdb662309812",
+     "bbox": [
+      4.1447459,
+      42.31539,
+      7.887672,
+      45.12887
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-provence-alpes-cote-d-azur.pmtiles"
     },
     {
      "id": "fr-rhone-alpes",
      "nome": "Ródano-Alpes",
-     "sigla": "Lyon"
+     "sigla": "Lyon",
+     "tamanho": 326531854,
+     "sha256": "07845bcb3bea1476925ca91fa79e37ce072f7c4fada2fa42600bac7bae08b38c",
+     "bbox": [
+      3.686075,
+      44.11274,
+      7.27726,
+      46.57299
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-rhone-alpes.pmtiles"
     },
     {
      "id": "fr-guyane",
      "nome": "Guiana Francesa",
-     "sigla": "Caiena"
+     "sigla": "Caiena",
+     "tamanho": 17773455,
+     "sha256": "8c289c8404fc667d1102994abd1ad6ec0a407696a2df48da1a9075f26ff6b24a",
+     "bbox": [
+      -54.622994,
+      2.093117,
+      -50.866702,
+      6.370288
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-guyane.pmtiles"
     },
     {
      "id": "fr-guadeloupe",
      "nome": "Guadalupe",
-     "sigla": "Pointe-à-Pitre"
+     "sigla": "Pointe-à-Pitre",
+     "tamanho": 12864279,
+     "sha256": "50c753497b4ccb2c8eb32713bf9e40aa9003cf8c3166021fabaa989bdd80dba9",
+     "bbox": [
+      -62.152406,
+      15.49074,
+      -60.604707,
+      16.824261
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-guadeloupe.pmtiles"
     },
     {
      "id": "fr-martinique",
      "nome": "Martinica",
-     "sigla": "Fort-de-France"
+     "sigla": "Fort-de-France",
+     "tamanho": 10185365,
+     "sha256": "fb44419cb3ab8154d9a7bb01d08e40e2fed566bfdf0cf2224dcd0d451d9a242c",
+     "bbox": [
+      -61.630557,
+      14.133915,
+      -60.427554,
+      15.151674
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-martinique.pmtiles"
     },
     {
      "id": "fr-reunion",
      "nome": "Reunião",
-     "sigla": "Saint-Denis"
+     "sigla": "Saint-Denis",
+     "tamanho": 16563415,
+     "sha256": "dc9ad1d8633f58967eab9d9ef8bb3a108e4ab47648bdbed007305f04697b24e5",
+     "bbox": [
+      54.94688,
+      -21.72922,
+      56.11999,
+      -20.58589
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-reunion.pmtiles"
     },
     {
      "id": "fr-mayotte",
      "nome": "Mayotte",
-     "sigla": "Mamoudzou"
+     "sigla": "Mamoudzou",
+     "tamanho": 5867674,
+     "sha256": "88e55b0d95095c9f04c99440bb49a210652c42da2f6fb67ae548f854e12e4373",
+     "bbox": [
+      44.626462,
+      -13.472432,
+      45.678403,
+      -12.144058
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-mayotte.pmtiles"
     }
    ]
   },
@@ -1750,82 +2010,242 @@
     {
      "id": "de-baden-wuerttemberg",
      "nome": "Baden-Württemberg",
-     "sigla": "Stuttgart"
+     "sigla": "Stuttgart",
+     "tamanho": 383819940,
+     "sha256": "90d559013e49c0e8147fb7097736bc3343be8542ddd1df250c86db8c3a09de1d",
+     "bbox": [
+      7.372216,
+      47.18741,
+      10.514946,
+      49.794564
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-baden-wuerttemberg.pmtiles"
     },
     {
      "id": "de-bayern",
      "nome": "Baviera",
-     "sigla": "Munique"
+     "sigla": "Munique",
+     "tamanho": 544645736,
+     "sha256": "dd7646b93d8756dd54c1c57b6d63e8b1fcce40cccb7a7fbac700ed4654c0b067",
+     "bbox": [
+      8.975186,
+      47.22839,
+      14.09027,
+      50.56623
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-bayern.pmtiles"
     },
     {
      "id": "de-berlin",
      "nome": "Berlim",
-     "sigla": "Berlim"
+     "sigla": "Berlim",
+     "tamanho": 36650160,
+     "sha256": "80169e68dd07898e7caf5da05527c24ac57c5690acb68431d28c5ac51defae9e",
+     "bbox": [
+      13.08283,
+      52.33446,
+      13.762245,
+      52.6783
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-berlin.pmtiles"
     },
     {
      "id": "de-brandenburg",
      "nome": "Brandemburgo",
-     "sigla": "Potsdam"
+     "sigla": "Potsdam",
+     "tamanho": 181105844,
+     "sha256": "ae472ec569206fa5f00700ecf4e5fe0cd9fc3f61f4e92d3fce31aa91a464162a",
+     "bbox": [
+      11.260643,
+      51.356132,
+      14.894526,
+      53.562948
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-brandenburg.pmtiles"
     },
     {
      "id": "de-bremen",
      "nome": "Bremen",
-     "sigla": "Bremen"
+     "sigla": "Bremen",
+     "tamanho": 10754094,
+     "sha256": "e0a2058dfec2146621a54d9c4a7b20f6175e6d88c5da8dd78e666e229116071a",
+     "bbox": [
+      8.480959,
+      53.01034,
+      8.991268,
+      53.61063
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-bremen.pmtiles"
     },
     {
      "id": "de-hamburg",
      "nome": "Hamburgo",
-     "sigla": "Hamburgo"
+     "sigla": "Hamburgo",
+     "tamanho": 22354774,
+     "sha256": "ab688570698582859c9f158e2ff0604c157c047b214044516fdccb60f0681ebe",
+     "bbox": [
+      7.967833,
+      53.391826,
+      10.331955,
+      54.062613
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-hamburg.pmtiles"
     },
     {
      "id": "de-hessen",
      "nome": "Hesse",
-     "sigla": "Frankfurt"
+     "sigla": "Frankfurt",
+     "tamanho": 210939164,
+     "sha256": "678ac4b701163dc199e76ff2c2545a90a16f864621634b684703fa0da5a51364",
+     "bbox": [
+      7.768021,
+      49.393212,
+      10.245952,
+      51.659158
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-hessen.pmtiles"
     },
     {
      "id": "de-mecklenburg-vorpommern",
      "nome": "Meclemburgo-Pomerânia Ocidental",
-     "sigla": "Rostock"
+     "sigla": "Rostock",
+     "tamanho": 108157694,
+     "sha256": "0c1d9e6f3b598b9d0f20f27c33c71061ab74bf8ccf4940e878f12f5a5c0a7b26",
+     "bbox": [
+      10.588074,
+      53.106186,
+      14.43422,
+      54.99857
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-mecklenburg-vorpommern.pmtiles"
     },
     {
      "id": "de-niedersachsen",
      "nome": "Baixa Saxônia",
-     "sigla": "Hanôver"
+     "sigla": "Hanôver",
+     "tamanho": 353254350,
+     "sha256": "00ba99a305f72c8e78a5b255c0ee8ca003b12f6f93862af7fdb10ef1c8247220",
+     "bbox": [
+      6.295165,
+      51.293485,
+      11.607313,
+      54.239552
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-niedersachsen.pmtiles"
     },
     {
      "id": "de-nordrhein-westfalen",
      "nome": "Renânia do Norte-Vestfália",
-     "sigla": "Colônia, Düsseldorf"
+     "sigla": "Colônia, Düsseldorf",
+     "tamanho": 493190120,
+     "sha256": "5b9a1b2aaa8c172ed5e4bb9bc24110579f4df65f218718ea1f60b7bb79371cae",
+     "bbox": [
+      5.512685,
+      50.320877,
+      9.468311,
+      52.533454
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-nordrhein-westfalen.pmtiles"
     },
     {
      "id": "de-rheinland-pfalz",
      "nome": "Renânia-Palatinado",
-     "sigla": "Mainz"
+     "sigla": "Mainz",
+     "tamanho": 180238157,
+     "sha256": "ca477c3f1a45ecce4850d77878cbcf1718c3161e5e68d602ec223ae3224a10d8",
+     "bbox": [
+      6.108849,
+      48.963765,
+      8.5112279,
+      50.944044
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-rheinland-pfalz.pmtiles"
     },
     {
      "id": "de-saarland",
      "nome": "Sarre",
-     "sigla": "Saarbrücken"
+     "sigla": "Saarbrücken",
+     "tamanho": 30156332,
+     "sha256": "69f01ccc0e167810e4d22d303bf287c26a06f196c993e282fe24855e83c70f5c",
+     "bbox": [
+      6.35017,
+      49.040133,
+      7.406287,
+      49.641456
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-saarland.pmtiles"
     },
     {
      "id": "de-sachsen",
      "nome": "Saxônia",
-     "sigla": "Dresden, Leipzig"
+     "sigla": "Dresden, Leipzig",
+     "tamanho": 167725953,
+     "sha256": "2e2a6d664d34b166db72d8d405090a966666b8ee7351914f6db099c4508831d1",
+     "bbox": [
+      11.86685,
+      50.031894,
+      15.163009,
+      51.68735
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-sachsen.pmtiles"
     },
     {
      "id": "de-sachsen-anhalt",
      "nome": "Saxônia-Anhalt",
-     "sigla": "Magdeburgo"
+     "sigla": "Magdeburgo",
+     "tamanho": 126153277,
+     "sha256": "cae8c6dd00421a989dd798f3ab8140bc9d71468f0a2839d6567b747fc861bd94",
+     "bbox": [
+      10.54725,
+      50.92887,
+      13.21268,
+      53.0566
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-sachsen-anhalt.pmtiles"
     },
     {
      "id": "de-schleswig-holstein",
      "nome": "Schleswig-Holstein",
-     "sigla": "Kiel"
+     "sigla": "Kiel",
+     "tamanho": 116335453,
+     "sha256": "7479b5d8f927746944976568ca8871c1716374e57ab74e5ef870e391cefeded3",
+     "bbox": [
+      7.46458,
+      53.356904,
+      11.799314,
+      55.14634
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-schleswig-holstein.pmtiles"
     },
     {
      "id": "de-thueringen",
      "nome": "Turíngia",
-     "sigla": "Erfurt"
+     "sigla": "Erfurt",
+     "tamanho": 114320994,
+     "sha256": "d98a8bbc046452399c25180d74b888055337beb160a505785fabf868bcbe03bc",
+     "bbox": [
+      9.863176,
+      50.19971,
+      12.661056,
+      51.65237
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/de-thueringen.pmtiles"
     }
    ]
   },
