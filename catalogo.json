@@ -731,12 +731,32 @@
       {
        "id": "us-ct",
        "nome": "Connecticut",
-       "sigla": "CT"
+       "sigla": "CT",
+       "tamanho": 105067555,
+       "sha256": "7997289eb0b158bdd941e91d1f1cd54ae310629d5d0b1d3b307fa8f0a4f3992b",
+       "bbox": [
+        -73.72889,
+        40.96401,
+        -71.7853,
+        42.05229
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ct.pmtiles"
       },
       {
        "id": "us-me",
        "nome": "Maine",
-       "sigla": "ME"
+       "sigla": "ME",
+       "tamanho": 105368836,
+       "sha256": "153b2ef238184b95d052d6fc3afdf79a30a192b7fe31cc72ddb9d3f0e3012748",
+       "bbox": [
+        -71.45045,
+        42.85443,
+        -65.856172,
+        48.15552
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-me.pmtiles"
       },
       {
        "id": "us-ma",
@@ -756,17 +776,47 @@
       {
        "id": "us-nh",
        "nome": "Nova Hampshire",
-       "sigla": "NH"
+       "sigla": "NH",
+       "tamanho": 60108126,
+       "sha256": "2f329081cd1964e46f5c3dc384a4fc128d8ac5815529bb705276aee6bb80ee5b",
+       "bbox": [
+        -72.5588,
+        42.69669,
+        -70.48692,
+        45.44612
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-nh.pmtiles"
       },
       {
        "id": "us-ri",
        "nome": "Rhode Island",
-       "sigla": "RI"
+       "sigla": "RI",
+       "tamanho": 36513468,
+       "sha256": "d7e30d9397454a41f4413ff9e685e3af866fa145c7602ebf092966fbb3dad25c",
+       "bbox": [
+        -71.91456,
+        40.9992,
+        -71.063691,
+        42.01938
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ri.pmtiles"
       },
       {
        "id": "us-vt",
        "nome": "Vermont",
-       "sigla": "VT"
+       "sigla": "VT",
+       "tamanho": 45197502,
+       "sha256": "6bbda14e14c92503eddf93573964dccb813b659db5e0093c940ea509fd9f38cb",
+       "bbox": [
+        -73.43943,
+        42.724979,
+        -71.46476,
+        45.183975
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-vt.pmtiles"
       },
       {
        "id": "us-nj",
@@ -801,7 +851,17 @@
       {
        "id": "us-pa",
        "nome": "Pensilvânia",
-       "sigla": "PA"
+       "sigla": "PA",
+       "tamanho": 285624469,
+       "sha256": "722b775451c93d440d0a02ee66db59b6dbbd6efc8602a454be370892f3c4ab31",
+       "bbox": [
+        -81.37832,
+        38.92139,
+        -74.687612,
+        42.516493
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-pa.pmtiles"
       }
      ]
     },
@@ -827,57 +887,167 @@
       {
        "id": "us-in",
        "nome": "Indiana",
-       "sigla": "IN"
+       "sigla": "IN",
+       "tamanho": 171491245,
+       "sha256": "1e084152ff658f6386fd94405a0c9083c048c8866e74b5ba08da36700da99a37",
+       "bbox": [
+        -88.10327,
+        37.62705,
+        -84.50399,
+        41.76301
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-in.pmtiles"
       },
       {
        "id": "us-mi",
        "nome": "Michigan",
-       "sigla": "MI"
+       "sigla": "MI",
+       "tamanho": 281403444,
+       "sha256": "c5e180712a79324db41440f57be058c1ea59ac47a115fe7f7bffaca6d2eb243e",
+       "bbox": [
+        -90.41981,
+        41.69439,
+        -79.04667,
+        49.32486
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-mi.pmtiles"
       },
       {
        "id": "us-oh",
        "nome": "Ohio",
-       "sigla": "OH"
+       "sigla": "OH",
+       "tamanho": 281985675,
+       "sha256": "abc1065bc48968bf0afde566da867b5aa0b0f0dab99f1e1987afbddc0da92503",
+       "bbox": [
+        -84.8219,
+        38.09861,
+        -79.89951,
+        43.48236
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-oh.pmtiles"
       },
       {
        "id": "us-wi",
        "nome": "Wisconsin",
-       "sigla": "WI"
+       "sigla": "WI",
+       "tamanho": 259569297,
+       "sha256": "84d03e340c91ebe5cd735d05d886daf4a45fdfa7c64a61d059a3f94d038b2c6b",
+       "bbox": [
+        -92.89089,
+        42.48899,
+        -86.20021,
+        47.41451
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-wi.pmtiles"
       },
       {
        "id": "us-ia",
        "nome": "Iowa",
-       "sigla": "IA"
+       "sigla": "IA",
+       "tamanho": 143631361,
+       "sha256": "221db34fb9a9af1b3b3ffb118adc00177e75f2a6f8738d427020765ed0431b3b",
+       "bbox": [
+        -96.6426,
+        40.37266,
+        -90.13581,
+        43.50182
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ia.pmtiles"
       },
       {
        "id": "us-ks",
        "nome": "Kansas",
-       "sigla": "KS"
+       "sigla": "KS",
+       "tamanho": 134114977,
+       "sha256": "aafdf61d4795cc3555af1f8a0883e0d1416ed4c905bee643f1ae4644dc3d68a6",
+       "bbox": [
+        -107.3034,
+        33.40115,
+        -94.58926,
+        40.00681
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ks.pmtiles"
       },
       {
        "id": "us-mn",
        "nome": "Minnesota",
-       "sigla": "MN"
+       "sigla": "MN",
+       "tamanho": 279179829,
+       "sha256": "e9eaf4f9c0fd677696dc9f8216e2a253e0ef9a5df74e3db8d76d20abff5542f3",
+       "bbox": [
+        -97.27158,
+        43.49909,
+        -89.36208,
+        49.99714
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-mn.pmtiles"
       },
       {
        "id": "us-mo",
        "nome": "Missouri",
-       "sigla": "MO"
+       "sigla": "MO",
+       "tamanho": 202543684,
+       "sha256": "eea46954aad2bb7b433eb53eda18b1b61b4c2b701174803d90d566a709f557d1",
+       "bbox": [
+        -95.77751,
+        35.99466,
+        -88.87132,
+        40.61664
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-mo.pmtiles"
       },
       {
        "id": "us-ne",
        "nome": "Nebraska",
-       "sigla": "NE"
+       "sigla": "NE",
+       "tamanho": 105490159,
+       "sha256": "30f72058fd3a147184d1fe3fd05f8d375d09c0ba864dcc24940c414179cee5c7",
+       "bbox": [
+        -104.7301,
+        40.00015,
+        -95.30703,
+        43.00172
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ne.pmtiles"
       },
       {
        "id": "us-nd",
        "nome": "Dakota do Norte",
-       "sigla": "ND"
+       "sigla": "ND",
+       "tamanho": 115697336,
+       "sha256": "b089cd1401be69dd7caf2209f8c58080b5692cf2805f5b4d7d50cbfa19c4a100",
+       "bbox": [
+        -105.0844,
+        45.93448,
+        -96.55292,
+        49.70865
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-nd.pmtiles"
       },
       {
        "id": "us-sd",
        "nome": "Dakota do Sul",
-       "sigla": "SD"
+       "sigla": "SD",
+       "tamanho": 68160950,
+       "sha256": "da4c5c6eed20c445bae1e13fc116b9cc10b60a0f0bb9bad493685a097f4351d9",
+       "bbox": [
+        -104.9132,
+        42.47744,
+        -96.43595,
+        45.94831
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-sd.pmtiles"
       }
      ]
     },
@@ -888,7 +1058,17 @@
       {
        "id": "us-de",
        "nome": "Delaware",
-       "sigla": "DE"
+       "sigla": "DE",
+       "tamanho": 19371026,
+       "sha256": "0307bae349572e53793408110be88c15947b568b34ddb9034a333be2968baa60",
+       "bbox": [
+        -75.78974,
+        38.45043,
+        -74.96121,
+        40.03221
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-de.pmtiles"
       },
       {
        "id": "us-dc",
@@ -938,62 +1118,182 @@
       {
        "id": "us-md",
        "nome": "Maryland",
-       "sigla": "MD"
+       "sigla": "MD",
+       "tamanho": 147906338,
+       "sha256": "a9f21e30808d07dc614fadef6987d70359fdf0eb8d908f14f955c04e6c3f50eb",
+       "bbox": [
+        -79.48857,
+        37.88396,
+        -74.954079,
+        40.17054
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-md.pmtiles"
       },
       {
        "id": "us-nc",
        "nome": "Carolina do Norte",
-       "sigla": "NC"
+       "sigla": "NC",
+       "tamanho": 336935508,
+       "sha256": "9b6f2dae46a55977b5fa4c9b0e0225be989c5f46f951d9905cfcf8e44fa7320f",
+       "bbox": [
+        -84.32219,
+        32.55781,
+        -73.7396,
+        36.58979
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-nc.pmtiles"
       },
       {
        "id": "us-sc",
        "nome": "Carolina do Sul",
-       "sigla": "SC"
+       "sigla": "SC",
+       "tamanho": 151025838,
+       "sha256": "0b0fef056f5a6de088903d2c7ea95ff5d40c1cc35b85027979ad5d643a85f8c7",
+       "bbox": [
+        -83.35622,
+        32.02967,
+        -78.51867,
+        35.2184
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-sc.pmtiles"
       },
       {
        "id": "us-va",
        "nome": "Virgínia",
-       "sigla": "VA"
+       "sigla": "VA",
+       "tamanho": 310002773,
+       "sha256": "78e1029451a4ed2fb6b61a8b445a4000bdf0e126c09178106b0949882f03ccf2",
+       "bbox": [
+        -83.67841,
+        36.53798,
+        -74.29751,
+        39.46901
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-va.pmtiles"
       },
       {
        "id": "us-wv",
        "nome": "Virgínia Ocidental",
-       "sigla": "WV"
+       "sigla": "WV",
+       "tamanho": 116750598,
+       "sha256": "dbd7284d828e609aba884f612816e9d0ac55c92dccd090ea81cacfcbb1d8228b",
+       "bbox": [
+        -82.64965,
+        37.19858,
+        -77.7141,
+        40.92069
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-wv.pmtiles"
       },
       {
        "id": "us-al",
        "nome": "Alabama",
-       "sigla": "AL"
+       "sigla": "AL",
+       "tamanho": 162685688,
+       "sha256": "f5a06de8694addf242c083b42a191d5a155df9e30ed2bf6015064eb5eccee9ec",
+       "bbox": [
+        -88.483889,
+        29.954937,
+        -84.883364,
+        35.00872
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-al.pmtiles"
       },
       {
        "id": "us-ky",
        "nome": "Kentucky",
-       "sigla": "KY"
+       "sigla": "KY",
+       "tamanho": 127761953,
+       "sha256": "f409c457de1c9945a4a6270f313ee940f73a3e62fef343a44f6d4e108605765f",
+       "bbox": [
+        -89.61845,
+        36.49325,
+        -81.95512,
+        39.20518
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ky.pmtiles"
       },
       {
        "id": "us-ms",
        "nome": "Mississippi",
-       "sigla": "MS"
+       "sigla": "MS",
+       "tamanho": 85476109,
+       "sha256": "398ec53cd1ef20f82e0035773d996f9db9e5b64499a07ec61c9e6755f935a52f",
+       "bbox": [
+        -91.65857,
+        30.04168,
+        -88.09292,
+        35.00055
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ms.pmtiles"
       },
       {
        "id": "us-tn",
        "nome": "Tennessee",
-       "sigla": "TN"
+       "sigla": "TN",
+       "tamanho": 161409164,
+       "sha256": "1d6f3c2ce664b4cb314472975a691e90138b625f97300d57e35543698e8988e9",
+       "bbox": [
+        -90.31329,
+        34.98269,
+        -81.64416,
+        36.68075
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-tn.pmtiles"
       },
       {
        "id": "us-ar",
        "nome": "Arkansas",
-       "sigla": "AR"
+       "sigla": "AR",
+       "tamanho": 104721941,
+       "sha256": "d92b967cb09451f74da2949e8671034e1bd7667721beedf1c7f02a8eaceb46a5",
+       "bbox": [
+        -94.62217,
+        33.0038,
+        -89.63987,
+        36.55212
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ar.pmtiles"
       },
       {
        "id": "us-la",
        "nome": "Luisiana",
-       "sigla": "LA"
+       "sigla": "LA",
+       "tamanho": 138582896,
+       "sha256": "a3f5114cc915219d51c0e89dccd8799e950c93c95b67aac10c4520965b0a30d4",
+       "bbox": [
+        -94.04376,
+        28.14452,
+        -88.66684,
+        33.0202499
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-la.pmtiles"
       },
       {
        "id": "us-ok",
        "nome": "Oklahoma",
-       "sigla": "OK"
+       "sigla": "OK",
+       "tamanho": 146965540,
+       "sha256": "88766956fad736f7d3b5749286d4c3a4f1910c50eb12b120890ac78af0fe2cc0",
+       "bbox": [
+        -103.007815,
+        33.613476,
+        -94.429894,
+        37.011328
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ok.pmtiles"
       },
       {
        "id": "us-tx",
@@ -1034,17 +1334,47 @@
       {
        "id": "us-co",
        "nome": "Colorado",
-       "sigla": "CO"
+       "sigla": "CO",
+       "tamanho": 300569631,
+       "sha256": "d6edbdc074d60c904f70c07210ea0b4b31befb3869929c10f1aea65f960334d9",
+       "bbox": [
+        -109.0631,
+        36.56774,
+        -100.4637,
+        41.00403
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-co.pmtiles"
       },
       {
        "id": "us-id",
        "nome": "Idaho",
-       "sigla": "ID"
+       "sigla": "ID",
+       "tamanho": 124825384,
+       "sha256": "2a2a2502a864e40e220d55e1f775b48d8ebac3f56603fe242600feded90bcaeb",
+       "bbox": [
+        -117.246,
+        41.98306,
+        -111.0431,
+        49.13466
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-id.pmtiles"
       },
       {
        "id": "us-mt",
        "nome": "Montana",
-       "sigla": "MT"
+       "sigla": "MT",
+       "tamanho": 134917021,
+       "sha256": "1d91a5d5c2b589a802c67ad58e2215459637ce22be5119e9298ebb47458c236e",
+       "bbox": [
+        -116.0518,
+        44.35556,
+        -102.685,
+        49.69326
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-mt.pmtiles"
       },
       {
        "id": "us-nv",
@@ -1064,17 +1394,47 @@
       {
        "id": "us-nm",
        "nome": "Novo México",
-       "sigla": "NM"
+       "sigla": "NM",
+       "tamanho": 147361135,
+       "sha256": "4c7b8a98ecfafb4bb1e432378b05e57e15e03bcf60f05dd35e2fc20444e3fa2c",
+       "bbox": [
+        -109.0504,
+        27.02788,
+        -96.11707,
+        37.00184
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-nm.pmtiles"
       },
       {
        "id": "us-ut",
        "nome": "Utah",
-       "sigla": "UT"
+       "sigla": "UT",
+       "tamanho": 137845961,
+       "sha256": "53b87568a82e1e6fa189f6f1b0825e221899ec727d5de449660b463c126b06ce",
+       "bbox": [
+        -114.0556,
+        36.9963,
+        -109.0394,
+        42.00323
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-ut.pmtiles"
       },
       {
        "id": "us-wy",
        "nome": "Wyoming",
-       "sigla": "WY"
+       "sigla": "WY",
+       "tamanho": 113103399,
+       "sha256": "716e90f24cf042d1374308f34f7f38f183038618b573d751468e108d6a7d03ed",
+       "bbox": [
+        -111.0576,
+        40.983393,
+        -103.941289,
+        45.019532
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-wy.pmtiles"
       },
       {
        "id": "us-ak",
@@ -1114,12 +1474,32 @@
       {
        "id": "us-or",
        "nome": "Oregon",
-       "sigla": "OR"
+       "sigla": "OR",
+       "tamanho": 219640926,
+       "sha256": "fdf85a5be45b3654460b5ce661cb3af7126b9a67d9c8a10537ca9be119cdd196",
+       "bbox": [
+        -126.3879,
+        41.9634,
+        -116.4545,
+        46.30349
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-or.pmtiles"
       },
       {
        "id": "us-wa",
        "nome": "Washington",
-       "sigla": "WA"
+       "sigla": "WA",
+       "tamanho": 306974594,
+       "sha256": "5007af856d21c4172f54b8d39758d80bf41adf89b2d5f2bbc0b47ae74ec152e2",
+       "bbox": [
+        -126.7423,
+        45.53882,
+        -116.911526,
+        49.00708
+       ],
+       "versao": "2026-10-30",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/us-wa.pmtiles"
       }
      ]
     }
@@ -1217,7 +1597,17 @@
     {
      "id": "fr-alsace",
      "nome": "Alsácia",
-     "sigla": "Estrasburgo"
+     "sigla": "Estrasburgo",
+     "tamanho": 73680189,
+     "sha256": "9f6ad2ee9cc1cff04540e4fe54c544331c31b1fcdf62435155ee1055908c9adc",
+     "bbox": [
+      6.838921,
+      47.3845,
+      8.306437,
+      49.208014
+     ],
+     "versao": "2026-10-30",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/fr-alsace.pmtiles"
     },
     {
      "id": "fr-aquitaine",
