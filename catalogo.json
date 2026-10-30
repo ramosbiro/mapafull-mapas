@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado": "2026-10-27",
+ "gerado": "2026-10-30",
  "fonte": "Mapas: © colaboradores do OpenStreetMap (ODbL), tiles no padrão OpenMapTiles gerados com tilemaker.",
  "paises": [
   {
@@ -450,6 +450,182 @@
      ]
     }
    ]
+  },
+  {
+   "id": "ar",
+   "nome": "Argentina",
+   "bandeira": "🇦🇷",
+   "continente": "america-do-sul",
+   "tamanho": 651815803,
+   "sha256": "c2b0f6dcf2eb4f8316f97b52dc09f22a6571ae78924b07f526c61f24b63fcd5a",
+   "bbox": [
+    -73.614525,
+    -55.682956,
+    -53.63534,
+    -21.725753
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/ar.pmtiles"
+  },
+  {
+   "id": "bo",
+   "nome": "Bolívia",
+   "bandeira": "🇧🇴",
+   "continente": "america-do-sul",
+   "tamanho": 234565179,
+   "sha256": "b4e7d4bf97c48c0990e03bc0595ad1ba374a7d1cc81825447616c6a3754207d2",
+   "bbox": [
+    -69.656754,
+    -22.925511,
+    -57.434807,
+    -9.63866
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/bo.pmtiles"
+  },
+  {
+   "id": "cl",
+   "nome": "Chile",
+   "bandeira": "🇨🇱",
+   "continente": "america-do-sul",
+   "tamanho": 394007679,
+   "sha256": "e3a9631d4cb7fde31b1eec8f185838977da7c0aab4b0dd68f60570617978df6c",
+   "bbox": [
+    -76,
+    -56,
+    -66.3,
+    -17.4
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/cl.pmtiles"
+  },
+  {
+   "id": "co",
+   "nome": "Colômbia",
+   "bandeira": "🇨🇴",
+   "continente": "america-do-sul",
+   "tamanho": 345481548,
+   "sha256": "a18f2db7dd5eef1dd22475c7dd6c1451b883885ff9dbd7fd85e7b172fceceb04",
+   "bbox": [
+    -83.23104,
+    -4.25732,
+    -66.8147199,
+    16.5940699
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/co.pmtiles"
+  },
+  {
+   "id": "ec",
+   "nome": "Equador",
+   "bandeira": "🇪🇨",
+   "continente": "america-do-sul",
+   "tamanho": 131444836,
+   "sha256": "b7553fd61134111c7c75ce0ef1705cd00d71cb3b00ecdefbee51d57892ec1ee7",
+   "bbox": [
+    -93.56487,
+    -5.024173,
+    -75.16149,
+    2.843487
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/ec.pmtiles"
+  },
+  {
+   "id": "gy",
+   "nome": "Guiana",
+   "bandeira": "🇬🇾",
+   "continente": "america-do-sul",
+   "tamanho": 21262351,
+   "sha256": "c2c17d460ca807ddedd0344f1f0072329553fb0f453c4a21edecc3d588aa609a",
+   "bbox": [
+    -61.421008,
+    1.149369,
+    -56.42321,
+    9.182536
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/gy.pmtiles"
+  },
+  {
+   "id": "py",
+   "nome": "Paraguai",
+   "bandeira": "🇵🇾",
+   "continente": "america-do-sul",
+   "tamanho": 118897744,
+   "sha256": "59d5aa641deee866c3ec8131c2ad888758b7e7352a03305389811cf6a9c9922b",
+   "bbox": [
+    -62.69475,
+    -27.65675,
+    -54.20176,
+    -19.24012
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/py.pmtiles"
+  },
+  {
+   "id": "pe",
+   "nome": "Peru",
+   "bandeira": "🇵🇪",
+   "continente": "america-do-sul",
+   "tamanho": 293036062,
+   "sha256": "08d0b31abe9b8408b8668205c7bf5b565a8637aac7a36309c873b03dea04eaf9",
+   "bbox": [
+    -86.02509,
+    -20.305519,
+    -68.55439,
+    0.060049
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/pe.pmtiles"
+  },
+  {
+   "id": "sr",
+   "nome": "Suriname",
+   "bandeira": "🇸🇷",
+   "continente": "america-do-sul",
+   "tamanho": 26761234,
+   "sha256": "3ab727a05014872c036e15ec1a44be6a4402efab491779522c2129397e822050",
+   "bbox": [
+    -58.08461,
+    1.816773,
+    -53.328194,
+    7.761698
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/sr.pmtiles"
+  },
+  {
+   "id": "uy",
+   "nome": "Uruguai",
+   "bandeira": "🇺🇾",
+   "continente": "america-do-sul",
+   "tamanho": 63203557,
+   "sha256": "d676c9ec225b598264e5fc23e11e7d88e5a9064c058ad80f306862ed83712b7b",
+   "bbox": [
+    -58.525887,
+    -36.248699,
+    -52.7723,
+    -30.07355
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/uy.pmtiles"
+  },
+  {
+   "id": "ve",
+   "nome": "Venezuela",
+   "bandeira": "🇻🇪",
+   "continente": "america-do-sul",
+   "tamanho": 174494555,
+   "sha256": "2b87b67b12806b8a70f6e1edbd832da5caebceefe6aa7364098878d0b51a7da5",
+   "bbox": [
+    -73.38098,
+    0.621727,
+    -59.51474,
+    16.66751
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/ve.pmtiles"
   }
  ]
 }
