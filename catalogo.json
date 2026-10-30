@@ -12,7 +12,6 @@
     {
      "id": "br-norte",
      "nome": "Norte",
-     "capital": "Manaus",
      "estados": [
       {
        "id": "br-ac",
@@ -124,7 +123,6 @@
     {
      "id": "br-nordeste",
      "nome": "Nordeste",
-     "capital": "Salvador",
      "estados": [
       {
        "id": "br-al",
@@ -266,7 +264,6 @@
     {
      "id": "br-centro-oeste",
      "nome": "Centro-Oeste",
-     "capital": "Brasília",
      "estados": [
       {
        "id": "br-df",
@@ -333,7 +330,6 @@
     {
      "id": "br-sudeste",
      "nome": "Sudeste",
-     "capital": "São Paulo",
      "estados": [
       {
        "id": "br-es",
@@ -400,7 +396,6 @@
     {
      "id": "br-sul",
      "nome": "Sul",
-     "capital": "Curitiba",
      "estados": [
       {
        "id": "br-pr",
@@ -626,6 +621,86 @@
    ],
    "versao": "2026-10-30",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/ve.pmtiles"
+  },
+  {
+   "id": "es",
+   "nome": "Espanha",
+   "bandeira": "🇪🇸",
+   "continente": "europa",
+   "tamanho": 1219890634,
+   "sha256": "c484ee86163a65619e9bf6d56d4d86e70883c1b14235963d4864b3dae3c86e69",
+   "bbox": [
+    -9.779014,
+    35.154153,
+    5.098525,
+    44.14855
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/es.pmtiles"
+  },
+  {
+   "id": "nl",
+   "nome": "Holanda",
+   "bandeira": "🇳🇱",
+   "continente": "europa",
+   "tamanho": 696351968,
+   "sha256": "e84612b7e1ad08380ab6b1242e2f67e1d7b92fba09bd1f7ffea9dad8b7f37ea1",
+   "bbox": [
+    2.936095,
+    50.74753,
+    7.230455,
+    54.01786
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/nl.pmtiles"
+  },
+  {
+   "id": "pt",
+   "nome": "Portugal",
+   "bandeira": "🇵🇹",
+   "continente": "europa",
+   "tamanho": 346738121,
+   "sha256": "7ac0b61cda4f9fb38303dbd1a6a4822c7d8d2f8e99a25deb5484b797783b0f17",
+   "bbox": [
+    -33.616492,
+    29.251448,
+    -6.179513,
+    42.1639
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/pt.pmtiles"
+  },
+  {
+   "id": "ch",
+   "nome": "Suíça",
+   "bandeira": "🇨🇭",
+   "continente": "europa",
+   "tamanho": 329261409,
+   "sha256": "acd0b059f37fac22a2124c96500c039af0361fca91b913576c1637a45fa6fd9e",
+   "bbox": [
+    5.954418,
+    45.816418,
+    10.49584,
+    47.81126
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/ch.pmtiles"
+  },
+  {
+   "id": "mx",
+   "nome": "México",
+   "bandeira": "🇲🇽",
+   "continente": "america-do-norte",
+   "tamanho": 748766767,
+   "sha256": "620fe86abbc6e6ce7e124dabb51b9599a4adfbee1350898cfe260f2ebed42468",
+   "bbox": [
+    -132.495161,
+    9.079755,
+    -81.60533,
+    32.72067
+   ],
+   "versao": "2026-10-30",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-30/mx.pmtiles"
   }
  ]
 }
