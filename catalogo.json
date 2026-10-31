@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado": "2026-10-30",
+ "gerado": "2026-10-31",
  "fonte": "Mapas: © colaboradores do OpenStreetMap (ODbL), tiles no padrão OpenMapTiles gerados com tilemaker.",
  "paises": [
   {
@@ -1439,7 +1439,17 @@
       {
        "id": "us-ak",
        "nome": "Alasca",
-       "sigla": "AK"
+       "sigla": "AK",
+       "tamanho": 352160264,
+       "sha256": "e417ff862c689df51790463968fd30ae870a0c10ec811bfa344f4a8810476e19",
+       "bbox": [
+        -180,
+        51,
+        -129.9,
+        71.6
+       ],
+       "versao": "2026-10-31",
+       "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-10-31/us-ak.pmtiles"
       },
       {
        "id": "us-ca",
