@@ -3432,6 +3432,21 @@
      "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ca-nova-scotia.pmtiles"
     },
     {
+     "id": "ca-nunavut",
+     "nome": "Nunavut",
+     "sigla": "",
+     "tamanho": 549612690,
+     "sha256": "64979727b6b35db0bab4050d5b68b925acd0385b82f2eb7dcfbb268c6df48a19",
+     "bbox": [
+      -120.737002,
+      51.126799,
+      -49.16037,
+      84.95392
+     ],
+     "versao": "2026-11-15",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ca-nunavut.pmtiles"
+    },
+    {
      "id": "ca-ontario",
      "nome": "Ontario",
      "sigla": "",
