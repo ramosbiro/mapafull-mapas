@@ -3979,31 +3979,31 @@
      "id": "cn-jilin",
      "nome": "Jilin",
      "sigla": "",
-     "tamanho": 64016714,
-     "sha256": "a3bca67133c994249f3291d8805421a7c5c289672eca578b16859c9b249a1ebb",
+     "tamanho": 65485620,
+     "sha256": "f49b219b41d7b5316bd0cce5dc4d7f484a4b4fe9084b42544bfb41dd5f54b754",
      "bbox": [
       121.627578,
       40.329372,
       131.7867249,
       46.314688
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-jilin.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-jilin.pmtiles"
     },
     {
      "id": "cn-liaoning",
      "nome": "Liaoning",
      "sigla": "",
-     "tamanho": 58638374,
-     "sha256": "76654dcf80d6696ec001e6dad6de1fe037f18cb5701233ea91e765bbcd27a9bb",
+     "tamanho": 59675107,
+     "sha256": "b2ea5e94b0692b2d39ce148bf2d38e178890f8d758d51458a19df428e0e00729",
      "bbox": [
       118.830528,
       38.261909,
       126.291289,
       43.493032
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-liaoning.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-liaoning.pmtiles"
     },
     {
      "id": "cn-macau",
@@ -4024,121 +4024,121 @@
      "id": "cn-ningxia",
      "nome": "Ningxia",
      "sigla": "",
-     "tamanho": 16395850,
-     "sha256": "44a96bb96df44a088ee8943b52bc91f0846e8e0abce316fbd2de160935a4bb7d",
+     "tamanho": 16728037,
+     "sha256": "d2b8c8ed01d6ccbbd7d65e73ec3db87e281385736d28f19d801fd2b977db28fc",
      "bbox": [
       104.275,
       35.232721,
       107.657089,
       39.38606
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-ningxia.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-ningxia.pmtiles"
     },
     {
      "id": "cn-qinghai",
      "nome": "Qinghai",
      "sigla": "",
-     "tamanho": 56489945,
-     "sha256": "9ac40bbcee5113421db9d52c8a956592f4adef360319404c953cf65b4860c751",
+     "tamanho": 67573549,
+     "sha256": "7a60fb777eb45505dc14e49773db0fd0567dd35baf55b6b56c0867df03222c3a",
      "bbox": [
       89.39,
       31.586725,
       103.0727,
       39.221616
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-qinghai.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-qinghai.pmtiles"
     },
     {
      "id": "cn-shaanxi",
      "nome": "Shaanxi",
      "sigla": "",
-     "tamanho": 146558468,
-     "sha256": "c35605b88d4ff04f2a6e6fba1e77b1c64346bd8e431848ee4693403766b32a9a",
+     "tamanho": 149282709,
+     "sha256": "6a847f64899d6164091291b95f4d4d31ec6e24829bfb350a00ddbeaab7017ac4",
      "bbox": [
       105.480079,
       31.695,
       111.247902,
       39.589022
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-shaanxi.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-shaanxi.pmtiles"
     },
     {
      "id": "cn-shandong",
      "nome": "Shandong",
      "sigla": "",
-     "tamanho": 117608795,
-     "sha256": "48b2965ba25460a05b5bfb2ea51406ea3e6329d88b390db8a98a8de83c738814",
+     "tamanho": 119812520,
+     "sha256": "213536aeacc53aae1c3c3611c60006fad8b78877c5b1cbc1d9e4d6c0759d32bb",
      "bbox": [
       114.813309,
       34.375746,
       123.563227,
       38.44
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-shandong.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-shandong.pmtiles"
     },
     {
      "id": "cn-shanghai",
      "nome": "Shanghai",
      "sigla": "",
-     "tamanho": 26250734,
-     "sha256": "fd68a8b49a37aba6d0670ee7d66d3bd268492a1ef2bfd66233a9d26fc647f9fb",
+     "tamanho": 27270185,
+     "sha256": "adf6acaa093e1e5157f78f12f6741d04dec86f57da54fa0e40669589ee9480f3",
      "bbox": [
       120.847034,
       30.639095,
       123.679027,
       31.884555
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-shanghai.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-shanghai.pmtiles"
     },
     {
      "id": "cn-shanxi",
      "nome": "Shanxi",
      "sigla": "",
-     "tamanho": 63370231,
-     "sha256": "2d9708c4d0c9aee208724f84ed6035f7e51e1dce878f253446c85d5e345d8274",
+     "tamanho": 65064444,
+     "sha256": "cfff1894e514ed256c5d432e675dfb417dee48483bce662614a4d28b2e93aa5e",
      "bbox": [
       110.2,
       34.578953,
       114.57,
       40.751159
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-shanxi.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-shanxi.pmtiles"
     },
     {
      "id": "cn-sichuan",
      "nome": "Sichuan",
      "sigla": "",
-     "tamanho": 176896019,
-     "sha256": "3e79c61fc66c7e7da9d1e552f74d89933a65d01eb3b9345d79037abb087a8d20",
+     "tamanho": 181569533,
+     "sha256": "b24fac302a4bd5db0205e9018c4bbf8e42abb56e6446de3a6f87835f6f9d4f7d",
      "bbox": [
       97.312773,
       26.045988,
       108.550758,
       34.33153
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-sichuan.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-sichuan.pmtiles"
     },
     {
      "id": "cn-tianjin",
      "nome": "Tianjin",
      "sigla": "",
-     "tamanho": 20019173,
-     "sha256": "b5582abe711fb37a9d1b0f0922e3cfe27439c96ae45490241bf5fa26b6d88ad7",
+     "tamanho": 20589423,
+     "sha256": "4e9c5de860f6261a2883b6e50f8a085fcb6bdc3d4c92e58d495ecad2a5cee0ff",
      "bbox": [
       116.694374,
       38.553267,
       118.06303,
       40.253067
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-tianjin.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-tianjin.pmtiles"
     },
     {
      "id": "cn-tibet",
