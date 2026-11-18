@@ -3656,32 +3656,32 @@
    "nome": "Butão",
    "bandeira": "🇧🇹",
    "continente": "asia",
-   "tamanho": 30274346,
-   "sha256": "2d6257bafa1cf22e605361b876e6ec2c3ea3867ccdf0079499f4965816f3245e",
+   "tamanho": 30646283,
+   "sha256": "814f72259978815229079e4bc569bdf3bb3a1dbc872eb3812f4dafb877560739",
    "bbox": [
     88.73917,
     26.6948,
     92.13159,
     28.25372
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/bt.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/bt.pmtiles"
   },
   {
    "id": "kh",
    "nome": "Camboja",
    "bandeira": "🇰🇭",
    "continente": "asia",
-   "tamanho": 47480321,
-   "sha256": "6f8139406059ac89de75284f1b29e33249b2fa5f3093eddb10176f61b76936b7",
+   "tamanho": 48644069,
+   "sha256": "4c6d35364f42ca1d6aa128b45f964797752e5f95a2d9e1170b1332b5bad26f0c",
    "bbox": [
     101.852218,
     8.858092,
     107.639734,
     14.71875
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/kh.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/kh.pmtiles"
   },
   {
    "id": "kz",
@@ -4592,16 +4592,16 @@
    "nome": "Laos",
    "bandeira": "🇱🇦",
    "continente": "asia",
-   "tamanho": 68042176,
-   "sha256": "9d2df1fad8332e30f94ab7a75d178d64937248abc3814bd230cb461735ec207a",
+   "tamanho": 69707238,
+   "sha256": "5ba583c2a531b1ba63b0bfc11c3734edd5d1350dc4babed9e46080221f6a2056",
    "bbox": [
     100.082831,
     13.901591,
     107.650279,
     22.528246
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/la.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/la.pmtiles"
   },
   {
    "id": "lb",
@@ -4624,16 +4624,16 @@
    "nome": "Maldivas",
    "bandeira": "🇲🇻",
    "continente": "asia",
-   "tamanho": 3283700,
-   "sha256": "c2b4f109496f7605e4dfc24e0df97f61ace10257dd0bed1d2a5675030aeea878",
+   "tamanho": 3345390,
+   "sha256": "006a04b6bfc12d69b53aed953977e29eeb74b59a3aefeb57cbf3f408538da1e8",
    "bbox": [
     71.7,
     -1.36,
     74.5,
     7.69
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mv.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/mv.pmtiles"
   },
   {
    "id": "my",
@@ -4656,16 +4656,16 @@
    "nome": "Mianmar (Birmânia)",
    "bandeira": "🇲🇲",
    "continente": "asia",
-   "tamanho": 285032586,
-   "sha256": "6f7131344f276885d3c025f22701a8de2b0c60df918351ffac0690eaca60dd86",
+   "tamanho": 293395966,
+   "sha256": "af958b9ccd0d9047c1f70130121c712c677b0a01423faf74203dbfb04546f093",
    "bbox": [
     90.651332,
     9.510211,
     101.197093,
     28.574763
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mm.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/mm.pmtiles"
   },
   {
    "id": "mn",
@@ -4688,16 +4688,16 @@
    "nome": "Nepal",
    "bandeira": "🇳🇵",
    "continente": "asia",
-   "tamanho": 318020563,
-   "sha256": "f95702642df33c6187c99c889935e6d86cf00a7f5e2557a9b88948decb160b79",
+   "tamanho": 321528193,
+   "sha256": "49f891d7d25b208cd41feae107f1c99802d964ea6678d8d0195913d657d91da2",
    "bbox": [
     80.04913,
     26.3445,
     88.22213,
     30.47822
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/np.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/np.pmtiles"
   },
   {
    "id": "pk",
@@ -4736,16 +4736,16 @@
    "nome": "Sri Lanka",
    "bandeira": "🇱🇰",
    "continente": "asia",
-   "tamanho": 103091708,
-   "sha256": "3e6127fb0e0d0c72ee5252858b7e787c45538d42a569b6ed4a7a239180a493c9",
+   "tamanho": 103831112,
+   "sha256": "bb0f1bf31064c513d06def74b339c1f2d775c0e462ea8b7b7a006f385c7c7f89",
    "bbox": [
     79.16416,
     5.621275,
     82.64612,
     10.07153
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/lk.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/lk.pmtiles"
   },
   {
    "id": "sy",
@@ -4784,16 +4784,16 @@
    "nome": "Tailândia",
    "bandeira": "🇹🇭",
    "continente": "asia",
-   "tamanho": 348066065,
-   "sha256": "a3f83415fdbb3e04b05c581d65fff17a167b9cd321cf2c4d0d7479f5e5207718",
+   "tamanho": 356428409,
+   "sha256": "2a9c74e3e7fa772ce2c84d22024315dbf6300192658a6e05faf6d77fa0ceacac",
    "bbox": [
     97.135615,
     5.597877,
     105.63921,
     20.468752
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/th.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/th.pmtiles"
   },
   {
    "id": "tw",
@@ -5929,31 +5929,31 @@
      "id": "ru-ural-fed-district",
      "nome": "Ural Federal District",
      "sigla": "",
-     "tamanho": 620960754,
-     "sha256": "55268fd05ba1f64d577ae7aef051272507ea152a38d2044947321e1d04553051",
+     "tamanho": 627267115,
+     "sha256": "194734e4d03da86f11de70f74c14b965dadd5d072316d7e86361dad801c36cf3",
      "bbox": [
       57.04259,
       51.29853,
       86.0952,
       75.011
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ru-ural-fed-district.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ru-ural-fed-district.pmtiles"
     },
     {
      "id": "ru-volga-fed-district",
      "nome": "Volga Federal District",
      "sigla": "",
-     "tamanho": 1005713567,
-     "sha256": "95fbb01f0451f49994f4854e6ca8f64ee779d00e833316354f93204bffd6a694",
+     "tamanho": 1011640567,
+     "sha256": "827d57c56f6d7921de5a3ad5ad43854fee4e9cf38ac75d9cb0992a97b53ed3da",
      "bbox": [
       41.72107,
       46.27754,
       64.31028,
       61.71971
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ru-volga-fed-district.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ru-volga-fed-district.pmtiles"
     }
    ]
   },
