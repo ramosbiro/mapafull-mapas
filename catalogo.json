@@ -4144,61 +4144,61 @@
      "id": "cn-tibet",
      "nome": "Tibet",
      "sigla": "",
-     "tamanho": 128385887,
-     "sha256": "c874060cd2d8c2d2ab0e91bf0c8a3740c7a30588ea46da5e8fece0f986c16135",
+     "tamanho": 151188021,
+     "sha256": "2d6fd017d310c2a19506030c20a86721f77bb1a9f6913a55a7744635af36ce00",
      "bbox": [
       77.832316,
       26.528191,
       99.125518,
       36.53
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-tibet.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-tibet.pmtiles"
     },
     {
      "id": "cn-xinjiang",
      "nome": "Xinjiang",
      "sigla": "",
-     "tamanho": 142063844,
-     "sha256": "fbfd01b8c1745fdea185b97f17bb168d6a0949c548d2e68acaedf656c2368a9d",
+     "tamanho": 157125797,
+     "sha256": "8001623dc69606999761d52793a46f19f186718e8c28d568160d59e4dd4e15b6",
      "bbox": [
       69.578275,
       33.21855,
       96.43,
       51.002277
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-xinjiang.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-xinjiang.pmtiles"
     },
     {
      "id": "cn-yunnan",
      "nome": "Yunnan",
      "sigla": "",
-     "tamanho": 139971674,
-     "sha256": "49ea97f309bc71388dd6c29cfc8f80754caeb03365f30119e021cbf40adbc267",
+     "tamanho": 142901996,
+     "sha256": "e3bebc4891bd56392a634d1d208855c96fc129f894788ca9649f41a230d1bd5e",
      "bbox": [
       95.142318,
       19.011951,
       106.215,
       29.235182
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-yunnan.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-yunnan.pmtiles"
     },
     {
      "id": "cn-zhejiang",
      "nome": "Zhejiang",
      "sigla": "",
-     "tamanho": 126794459,
-     "sha256": "bbd7a7bfc6ee4f3a560e3f3f616dafe0d1f9b6daec1f7e9de3563b757759d596",
+     "tamanho": 128155314,
+     "sha256": "d9154d8b3897180794f4dbf79a4d079f1cb1466fb496217f924467cbc51f3a69",
      "bbox": [
       118.02063,
       26.691636,
       123.837885,
       31.190777
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-zhejiang.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-zhejiang.pmtiles"
     }
    ]
   },
