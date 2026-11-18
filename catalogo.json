@@ -3814,76 +3814,76 @@
      "id": "cn-guizhou",
      "nome": "Guizhou",
      "sigla": "",
-     "tamanho": 56744815,
-     "sha256": "bf62385dd66069a7fe4697446cb14fb0ffc3477eb9538f1c4b3324a7435b86e8",
+     "tamanho": 58102797,
+     "sha256": "b1b6f93f5a57e04fe38eb736581bf404700eb2865cca09d11b5c4f3df4fff922",
      "bbox": [
       103.598156,
       24.617058,
       109.55944,
       29.232036
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-guizhou.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-guizhou.pmtiles"
     },
     {
      "id": "cn-hainan",
      "nome": "Hainan",
      "sigla": "",
-     "tamanho": 16952569,
-     "sha256": "1a84722c78264af41ad4a7c1a0939bf2c570b1cc0272a018411d04c1f89050b7",
+     "tamanho": 17530898,
+     "sha256": "402c03884249d75d5a3019bec28de61375ca7fde2e8ccc62fa52808dbbd526fa",
      "bbox": [
       107.578984,
       11.984699,
       118.784158,
       20.403849
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-hainan.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-hainan.pmtiles"
     },
     {
      "id": "cn-hebei",
      "nome": "Hebei (with Beijing and Tianjin)",
      "sigla": "",
-     "tamanho": 163906468,
-     "sha256": "2fdecdfe3fe5730626b1e8df83a08a3fe4658a8d0679e1260ee68f30bfbade2f",
+     "tamanho": 169590607,
+     "sha256": "cc0fe606f63d28f4b93ee0d8d075360715da8104bfb0b84f44d5e500e3c9090a",
      "bbox": [
       113.451004,
       36.042992,
       119.998168,
       42.624866
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-hebei.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-hebei.pmtiles"
     },
     {
      "id": "cn-heilongjiang",
      "nome": "Heilongjiang",
      "sigla": "",
-     "tamanho": 100553147,
-     "sha256": "d4ec9fc4d797c173f7e7d8ef40a8fb67f28fb385bdfd907d11b140e2a639f1a8",
+     "tamanho": 103276700,
+     "sha256": "1e8f857df49fe16df748d02c8579115c90d54b27ee88e08021b1be2080bb83af",
      "bbox": [
       121.15,
       43.410784,
       137.153298,
       54.47005
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-heilongjiang.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-heilongjiang.pmtiles"
     },
     {
      "id": "cn-henan",
      "nome": "Henan",
      "sigla": "",
-     "tamanho": 91711614,
-     "sha256": "3372069960bf327dedacb3d72e227eccf316d53746aac4209606835327564c04",
+     "tamanho": 94420397,
+     "sha256": "9146afd28e739f3ffb4e2436baac2295079aa3ff4ed76b3be37f7d5531e22b2e",
      "bbox": [
       110.345821,
       31.378052,
       116.646995,
       36.368015
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-henan.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-henan.pmtiles"
     },
     {
      "id": "cn-hong-kong",
@@ -3904,76 +3904,76 @@
      "id": "cn-hubei",
      "nome": "Hubei",
      "sigla": "",
-     "tamanho": 88874023,
-     "sha256": "5906b9802e6961d9574c90eecfc5a868e4ec2e5ebb9366a87338b54b04eff54f",
+     "tamanho": 91097196,
+     "sha256": "7db1f2783b81ef0b6eb673f0bb1f27eceb4ddd0e3789b2fd0bf230b6a33f58c0",
      "bbox": [
       108.359699,
       29.030057,
       116.136131,
       33.273426
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-hubei.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-hubei.pmtiles"
     },
     {
      "id": "cn-hunan",
      "nome": "Hunan",
      "sigla": "",
-     "tamanho": 86306529,
-     "sha256": "8d453d3542ea7d0b81f54fd1789c00be51710e7921fb39b987b58915f8d273cd",
+     "tamanho": 87933188,
+     "sha256": "377fea2e14d16c1b76750964e10c480ab8adbdd0dd68d29c722c7226f4ec9801",
      "bbox": [
       108.779239,
       24.632663,
       114.258499,
       30.138002
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-hunan.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-hunan.pmtiles"
     },
     {
      "id": "cn-inner-mongolia",
      "nome": "Inner Mongolia",
      "sigla": "",
-     "tamanho": 125757390,
-     "sha256": "e29aa84d4267e25f5a1bdffd3c95a784d4fc3326ea0005b3e6339c74d62e85b4",
+     "tamanho": 129851970,
+     "sha256": "f67260a9fbc8b6e9756e90923d342af1cb0690726e011cb45c3f2deb74119d0a",
      "bbox": [
       94.794238,
       37.399619,
       126.076698,
       54.365943
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-inner-mongolia.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-inner-mongolia.pmtiles"
     },
     {
      "id": "cn-jiangsu",
      "nome": "Jiangsu",
      "sigla": "",
-     "tamanho": 110989603,
-     "sha256": "40f254f3e402ca53b3d315195c06452b74f4f565c4b00726136a781301957a46",
+     "tamanho": 112612859,
+     "sha256": "f95fe2e088a28edadf9419f686b72a75a6bf7724ca09042b336f68e12deadef5",
      "bbox": [
       116.353798,
       30.758986,
       122.94525,
       35.555067
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-jiangsu.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-jiangsu.pmtiles"
     },
     {
      "id": "cn-jiangxi",
      "nome": "Jiangxi",
      "sigla": "",
-     "tamanho": 86541329,
-     "sha256": "f46e32ec5e85e06f935358bc7da8cae524d1b946e0aad6a5a878521d5edf4891",
+     "tamanho": 88015794,
+     "sha256": "a6c146314fc139946478f776c72cf5c240e4305ee4d4670dc8b3a7c562db1438",
      "bbox": [
       113.568763,
       24.478088,
       118.486519,
       30.088405
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-jiangxi.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-jiangxi.pmtiles"
     },
     {
      "id": "cn-jilin",
