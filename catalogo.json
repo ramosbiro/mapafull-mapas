@@ -3709,106 +3709,106 @@
      "id": "cn-anhui",
      "nome": "Anhui",
      "sigla": "",
-     "tamanho": 79724749,
-     "sha256": "c2a7953037c66107ab3225936d9579bb87c9f8c2988e4283a5e7381f98ee1562",
+     "tamanho": 81813979,
+     "sha256": "2d94323c70016d8610f61390cf2623064d85f55c249061bb9ec4cb3504318f92",
      "bbox": [
       114.86927,
       29.388158,
       119.656562,
       34.654957
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-anhui.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-anhui.pmtiles"
     },
     {
      "id": "cn-beijing",
      "nome": "Beijing",
      "sigla": "",
-     "tamanho": 38434178,
-     "sha256": "3a299b72eb7db4c24779fedb6ccd719b8d42f0cf52d6f0a1b7bc107d693a03b5",
+     "tamanho": 39485488,
+     "sha256": "fd45a64d45fab07af09b9552dbc5c293bc7244f478944325adad525a0ab6c865",
      "bbox": [
       115.415497,
       39.440833,
       117.509508,
       41.063822
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-beijing.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-beijing.pmtiles"
     },
     {
      "id": "cn-chongqing",
      "nome": "Chongqing",
      "sigla": "",
-     "tamanho": 49854236,
-     "sha256": "895c89a3a881db70035d995cb896f0cfae147dfc80785436f610f6e5320da058",
+     "tamanho": 50901559,
+     "sha256": "15103e563444b3f2133d3feb40291ad0a32e2eee47c6737e77b605edf1db85bb",
      "bbox": [
       105.283012,
       28.15132,
       110.200424,
       32.206411
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-chongqing.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-chongqing.pmtiles"
     },
     {
      "id": "cn-fujian",
      "nome": "Fujian",
      "sigla": "",
-     "tamanho": 66711794,
-     "sha256": "4d86bc0ee57a59590ea6ec4a95951afff73093df013203b8541aa0b180512b20",
+     "tamanho": 67774172,
+     "sha256": "e64d56436556b2a405c0970c9b2f78d89692e55f1678c77a2b06ea7391c6c170",
      "bbox": [
       115.840874,
       22.96716,
       121.627662,
       28.322365
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-fujian.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-fujian.pmtiles"
     },
     {
      "id": "cn-gansu",
      "nome": "Gansu",
      "sigla": "",
-     "tamanho": 114237054,
-     "sha256": "bb06cc7738801c3215f1c996efef02e6ecd4990b881b55926eb082ff1aad4869",
+     "tamanho": 117018571,
+     "sha256": "07f2166a6ff2b19900e700958ed41dcaaa619d6e3434c544636747cfdbd19aba",
      "bbox": [
       92.299072,
       32.584378,
       108.719263,
       42.813538
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-gansu.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-gansu.pmtiles"
     },
     {
      "id": "cn-guangdong",
      "nome": "Guangdong (with Hong Kong and Macau)",
      "sigla": "",
-     "tamanho": 187494138,
-     "sha256": "383a9592d26f8f9fd0b2be2b72a43f8acacc6f08044612579d4cbd3ecc5a0b92",
+     "tamanho": 194928155,
+     "sha256": "1342a13d2f0d0ccc7cc85905c4a0dbf931cd2168fd29dfbb611252c035411061",
      "bbox": [
       109.356535,
       20.058514,
       118.792417,
       25.524319
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-guangdong.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-guangdong.pmtiles"
     },
     {
      "id": "cn-guangxi",
      "nome": "Guangxi",
      "sigla": "",
-     "tamanho": 93458384,
-     "sha256": "2f80b884bad66bd8b25e91f88854abd88d431b66d1356eb5a5b852f20fb44a87",
+     "tamanho": 95822447,
+     "sha256": "bf2d19ea15844212c3bd10556a617f2190b4605473d5bf627823f049c9ec76f0",
      "bbox": [
       104.441871,
       20.689823,
       112.065353,
       26.396483
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-guangxi.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-guangxi.pmtiles"
     },
     {
      "id": "cn-guizhou",
@@ -4930,46 +4930,46 @@
      "id": "in-northern-zone",
      "nome": "Northern Zone",
      "sigla": "",
-     "tamanho": 286373211,
-     "sha256": "49a83bbf73ab16c71542e6f1dbcce153b6f68b288144f6116dfc4c06bf6edd7f",
+     "tamanho": 293477988,
+     "sha256": "b988dfa08ffdfab22e1ac23e953fbd42cab20eb9697c0982d55cbedcd593eaeb",
      "bbox": [
       69.169911,
       23.046881,
       80.167546,
       36.137884
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-northern-zone.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/in-northern-zone.pmtiles"
     },
     {
      "id": "in-southern-zone",
      "nome": "Southern Zone",
      "sigla": "",
-     "tamanho": 518902599,
-     "sha256": "7a198cb88f9d8c94c90700d8dc05e0a329365d8044f0b2380d3588fd0d7327fd",
+     "tamanho": 523279242,
+     "sha256": "c50dc980d0ba428c10b0cb4ea237c6bc5e5ec4c34033f8c4311e758a30485587",
      "bbox": [
       70.004872,
       5.943921,
       95.55906,
       19.922681
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-southern-zone.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/in-southern-zone.pmtiles"
     },
     {
      "id": "in-western-zone",
      "nome": "Western Zone",
      "sigla": "",
-     "tamanho": 258980947,
-     "sha256": "8c26adfbce06babb29919a3854b0fac6c22532c1650a2962f4720eb4e50d3058",
+     "tamanho": 262307582,
+     "sha256": "ead1c690981824eb513b05bbc9fcf4b0a00aacf0ca08e87d56567d5014db73a7",
      "bbox": [
       67.3022349,
       14.370845,
       80.913619,
       25.446575
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-western-zone.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/in-western-zone.pmtiles"
     }
    ]
   },
