@@ -2313,22 +2313,6 @@
    ]
   },
   {
-   "id": "za",
-   "nome": "África do Sul",
-   "bandeira": "🇿🇦",
-   "continente": "africa",
-   "tamanho": 451828014,
-   "sha256": "5adea92f6e62017e3e8c159b1abd332f8b4cea90a67424c430b01bba4c0e9842",
-   "bbox": [
-    14.373284,
-    -48.464971,
-    40.2702,
-    -21.775433
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/za.pmtiles"
-  },
-  {
    "id": "ao",
    "nome": "Angola",
    "bandeira": "🇦🇴",
@@ -2777,22 +2761,6 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ma.pmtiles"
   },
   {
-   "id": "mu",
-   "nome": "Maurício",
-   "bandeira": "🇲🇺",
-   "continente": "africa",
-   "tamanho": 9267040,
-   "sha256": "54e5b2ecbc901c1fb525134b68d159bd1a70ea361cdbe4a11946fe8f1d550532",
-   "bbox": [
-    53.547275,
-    -22.241095,
-    65.639906,
-    -9.183617
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mu.pmtiles"
-  },
-  {
    "id": "mr",
    "nome": "Mauritânia",
    "bandeira": "🇲🇷",
@@ -2807,6 +2775,22 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mr.pmtiles"
+  },
+  {
+   "id": "mu",
+   "nome": "Maurício",
+   "bandeira": "🇲🇺",
+   "continente": "africa",
+   "tamanho": 9267040,
+   "sha256": "54e5b2ecbc901c1fb525134b68d159bd1a70ea361cdbe4a11946fe8f1d550532",
+   "bbox": [
+    53.547275,
+    -22.241095,
+    65.639906,
+    -9.183617
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mu.pmtiles"
   },
   {
    "id": "mz",
@@ -2841,22 +2825,6 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/na.pmtiles"
   },
   {
-   "id": "ne",
-   "nome": "Níger",
-   "bandeira": "🇳🇪",
-   "continente": "africa",
-   "tamanho": 95231059,
-   "sha256": "ff4c4a4c4b13594a73b1f29dec2a4b734ab93ace3f22c117ca40c675d9735a94",
-   "bbox": [
-    0.119721,
-    11.686838,
-    16.0560499,
-    23.56864
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ne.pmtiles"
-  },
-  {
    "id": "ng",
    "nome": "Nigéria",
    "bandeira": "🇳🇬",
@@ -2871,6 +2839,22 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ng.pmtiles"
+  },
+  {
+   "id": "ne",
+   "nome": "Níger",
+   "bandeira": "🇳🇪",
+   "continente": "africa",
+   "tamanho": 95231059,
+   "sha256": "ff4c4a4c4b13594a73b1f29dec2a4b734ab93ace3f22c117ca40c675d9735a94",
+   "bbox": [
+    0.119721,
+    11.686838,
+    16.0560499,
+    23.56864
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ne.pmtiles"
   },
   {
    "id": "ke",
@@ -2951,22 +2935,6 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/sh.pmtiles"
-  },
-  {
-   "id": "st",
-   "nome": "São Tomé e Príncipe",
-   "bandeira": "🇸🇹",
-   "continente": "africa",
-   "tamanho": 1477427,
-   "sha256": "b6f53c37bab8be98d3998461f85ff59bcf7a833c4aeb48931329478a4f93e60e",
-   "bbox": [
-    5.273916,
-    -0.5255649,
-    8.3669949,
-    2.440286
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/st.pmtiles"
   },
   {
    "id": "sc",
@@ -3065,6 +3033,22 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ss.pmtiles"
   },
   {
+   "id": "st",
+   "nome": "São Tomé e Príncipe",
+   "bandeira": "🇸🇹",
+   "continente": "africa",
+   "tamanho": 1477427,
+   "sha256": "b6f53c37bab8be98d3998461f85ff59bcf7a833c4aeb48931329478a4f93e60e",
+   "bbox": [
+    5.273916,
+    -0.5255649,
+    8.3669949,
+    2.440286
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/st.pmtiles"
+  },
+  {
    "id": "tz",
    "nome": "Tanzânia",
    "bandeira": "🇹🇿",
@@ -3129,6 +3113,22 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ug.pmtiles"
   },
   {
+   "id": "zw",
+   "nome": "Zimbábue",
+   "bandeira": "🇿🇼",
+   "continente": "africa",
+   "tamanho": 129501592,
+   "sha256": "b75478d665b811769f0c3cb40b8a2c72470c37a8cd814864d5066d82749e1228",
+   "bbox": [
+    25.222896,
+    -22.447246,
+    33.0854149,
+    -15.587067
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/zw.pmtiles"
+  },
+  {
    "id": "zm",
    "nome": "Zâmbia",
    "bandeira": "🇿🇲",
@@ -3145,20 +3145,20 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/zm.pmtiles"
   },
   {
-   "id": "zw",
-   "nome": "Zimbábue",
-   "bandeira": "🇿🇼",
+   "id": "za",
+   "nome": "África do Sul",
+   "bandeira": "🇿🇦",
    "continente": "africa",
-   "tamanho": 129501592,
-   "sha256": "b75478d665b811769f0c3cb40b8a2c72470c37a8cd814864d5066d82749e1228",
+   "tamanho": 451828014,
+   "sha256": "5adea92f6e62017e3e8c159b1abd332f8b4cea90a67424c430b01bba4c0e9842",
    "bbox": [
-    25.222896,
-    -22.447246,
-    33.0854149,
-    -15.587067
+    14.373284,
+    -48.464971,
+    40.2702,
+    -21.775433
    ],
    "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/zw.pmtiles"
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/za.pmtiles"
   },
   {
    "id": "bs",
@@ -3684,36 +3684,20 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/kh.pmtiles"
   },
   {
-   "id": "qa",
-   "nome": "Catar e Emirados Árabes Unidos e Omã e Barein e Kuwait",
-   "bandeira": "🇶🇦",
-   "continente": "asia",
-   "tamanho": 339915037,
-   "sha256": "912ac3852a1a9922d1c6422641b854ef65be340cae949354e5d501137d084327",
-   "bbox": [
-    34.434886,
-    15.24752,
-    60.94748,
-    32.196534
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/qa.pmtiles"
-  },
-  {
    "id": "kz",
    "nome": "Cazaquistão",
    "bandeira": "🇰🇿",
    "continente": "asia",
-   "tamanho": 343952372,
-   "sha256": "f47e1ff4df876abe6187f003d54798b27432bb98b56f3f07c6e9446db2f14302",
+   "tamanho": 368970453,
+   "sha256": "f88ccac5c50c75bdafae28f890e8faba0f824f95b0ca231974728bc8092aeb58",
    "bbox": [
     46.42304,
     40.553462,
     87.35359,
     55.50799
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/kz.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/kz.pmtiles"
   },
   {
    "id": "cn",
@@ -4267,118 +4251,20 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ph.pmtiles"
   },
   {
-   "id": "ye",
-   "nome": "Iêmen",
-   "bandeira": "🇾🇪",
+   "id": "qa",
+   "nome": "Golfo: Arábia Saudita, Emirados Árabes Unidos, Catar, Omã, Barein e Kuwait",
+   "bandeira": "🇶🇦",
    "continente": "asia",
-   "tamanho": 61558542,
-   "sha256": "25809b13c8178d835b8f1d7273fcd0499cbd1c82429f4187fefc5ab60d343ccf",
+   "tamanho": 339915037,
+   "sha256": "912ac3852a1a9922d1c6422641b854ef65be340cae949354e5d501137d084327",
    "bbox": [
-    41.06894,
-    11.316153,
-    55.511675,
-    19.03189
+    34.434886,
+    15.24752,
+    60.94748,
+    32.196534
    ],
    "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ye.pmtiles"
-  },
-  {
-   "id": "in",
-   "nome": "Índia",
-   "bandeira": "🇮🇳",
-   "continente": "asia",
-   "estados": [
-    {
-     "id": "in-central-zone",
-     "nome": "Central Zone",
-     "sigla": "",
-     "tamanho": 419371243,
-     "sha256": "b504c5e31b89b514d56aa1bcf9e63f2aa1424203dcf1f9c9c8c133c7da256a33",
-     "bbox": [
-      74.014891,
-      17.770921,
-      84.646568,
-      31.728176
-     ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-central-zone.pmtiles"
-    },
-    {
-     "id": "in-eastern-zone",
-     "nome": "Eastern Zone",
-     "sigla": "",
-     "tamanho": 261535737,
-     "sha256": "de2044129f71df73336bd96a14ad8fb4d632fec2d6d81104e75b0aa18b76e067",
-     "bbox": [
-      81.367492,
-      17.780565,
-      89.918288,
-      27.989553
-     ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-eastern-zone.pmtiles"
-    },
-    {
-     "id": "in-north-eastern-zone",
-     "nome": "North-Eastern Zone",
-     "sigla": "",
-     "tamanho": 122234142,
-     "sha256": "f4afb9c248ee86ccec7c73254453215f0cdbe8f855d4717db3b7ce12d08fdfff",
-     "bbox": [
-      87.703846,
-      21.186983,
-      100.272206,
-      30.48656
-     ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-north-eastern-zone.pmtiles"
-    },
-    {
-     "id": "in-northern-zone",
-     "nome": "Northern Zone",
-     "sigla": "",
-     "tamanho": 286373211,
-     "sha256": "49a83bbf73ab16c71542e6f1dbcce153b6f68b288144f6116dfc4c06bf6edd7f",
-     "bbox": [
-      69.169911,
-      23.046881,
-      80.167546,
-      36.137884
-     ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-northern-zone.pmtiles"
-    },
-    {
-     "id": "in-southern-zone",
-     "nome": "Southern Zone",
-     "sigla": "",
-     "tamanho": 518902599,
-     "sha256": "7a198cb88f9d8c94c90700d8dc05e0a329365d8044f0b2380d3588fd0d7327fd",
-     "bbox": [
-      70.004872,
-      5.943921,
-      95.55906,
-      19.922681
-     ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-southern-zone.pmtiles"
-    },
-    {
-     "id": "in-western-zone",
-     "nome": "Western Zone",
-     "sigla": "",
-     "tamanho": 258980947,
-     "sha256": "8c26adfbce06babb29919a3854b0fac6c22532c1650a2962f4720eb4e50d3058",
-     "bbox": [
-      67.3022349,
-      14.370845,
-      80.913619,
-      25.446575
-     ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-western-zone.pmtiles"
-    }
-   ]
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/qa.pmtiles"
   },
   {
    "id": "id",
@@ -4494,6 +4380,22 @@
    ]
   },
   {
+   "id": "iq",
+   "nome": "Iraque",
+   "bandeira": "🇮🇶",
+   "continente": "asia",
+   "tamanho": 118425431,
+   "sha256": "7b24ff77f1e64cec3b746b7b97999b7b758841b33c3ae43dfdc5f1a7bcd6e975",
+   "bbox": [
+    38.784,
+    29.01775,
+    49.551084,
+    37.39063
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/iq.pmtiles"
+  },
+  {
    "id": "ir",
    "nome": "Irã",
    "bandeira": "🇮🇷",
@@ -4510,20 +4412,36 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ir.pmtiles"
   },
   {
-   "id": "iq",
-   "nome": "Iraque",
-   "bandeira": "🇮🇶",
+   "id": "ps",
+   "nome": "Israel e Territórios palestinos",
+   "bandeira": "🇵🇸",
    "continente": "asia",
-   "tamanho": 118425431,
-   "sha256": "7b24ff77f1e64cec3b746b7b97999b7b758841b33c3ae43dfdc5f1a7bcd6e975",
+   "tamanho": 81069309,
+   "sha256": "b4955ec7d908605d6052635257d778ea7913ab021edddd518a3bdd8fc5d971d9",
    "bbox": [
-    38.784,
-    29.01775,
-    49.551084,
-    37.39063
+    33.999936,
+    29.439598,
+    35.91531,
+    33.454362
    ],
    "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/iq.pmtiles"
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ps.pmtiles"
+  },
+  {
+   "id": "ye",
+   "nome": "Iêmen",
+   "bandeira": "🇾🇪",
+   "continente": "asia",
+   "tamanho": 61558542,
+   "sha256": "25809b13c8178d835b8f1d7273fcd0499cbd1c82429f4187fefc5ab60d343ccf",
+   "bbox": [
+    41.06894,
+    11.316153,
+    55.511675,
+    19.03189
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ye.pmtiles"
   },
   {
    "id": "jp",
@@ -4702,22 +4620,6 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/lb.pmtiles"
   },
   {
-   "id": "my",
-   "nome": "Malásia",
-   "bandeira": "🇲🇾",
-   "continente": "asia",
-   "tamanho": 219940857,
-   "sha256": "f8f1b0b2357b010762b7a3b742fd1a3f79e20b269a93a313c285c5375cb710de",
-   "bbox": [
-    99.25611,
-    0.830813,
-    119.668278,
-    7.736849
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/my.pmtiles"
-  },
-  {
    "id": "mv",
    "nome": "Maldivas",
    "bandeira": "🇲🇻",
@@ -4732,6 +4634,22 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mv.pmtiles"
+  },
+  {
+   "id": "my",
+   "nome": "Malásia, Singapura e Brunei",
+   "bandeira": "🇲🇾",
+   "continente": "asia",
+   "tamanho": 219940857,
+   "sha256": "f8f1b0b2357b010762b7a3b742fd1a3f79e20b269a93a313c285c5375cb710de",
+   "bbox": [
+    99.25611,
+    0.830813,
+    119.668278,
+    7.736849
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/my.pmtiles"
   },
   {
    "id": "mm",
@@ -4754,16 +4672,16 @@
    "nome": "Mongólia",
    "bandeira": "🇲🇳",
    "continente": "asia",
-   "tamanho": 105635835,
-   "sha256": "16d6f02baf88f6db5f1ce75c1e03f02361ee332c6d7ebffc2d45ca8207f9e787",
+   "tamanho": 109209574,
+   "sha256": "f0d61aea27c9dd6376323f7bf3378979a463ae4e6123d75716e4e788e30152c5",
    "bbox": [
     87.70255,
     41.500354,
     120.020139,
     52.195825
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mn.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/mn.pmtiles"
   },
   {
    "id": "np",
@@ -4802,32 +4720,16 @@
    "nome": "Quirguistão",
    "bandeira": "🇰🇬",
    "continente": "asia",
-   "tamanho": 105549901,
-   "sha256": "300d0a9f57fc97a099db09cc0da6b6660a1f2fc39ca9fda156260c8d15ac62ed",
+   "tamanho": 109322558,
+   "sha256": "9e036ade9729802e2869bdac3e8a240581e796895dc239fbb5102aa53befd59c",
    "bbox": [
     69.255065,
     39.151363,
     80.277098,
     43.281205
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/kg.pmtiles"
-  },
-  {
-   "id": "sy",
-   "nome": "Síria",
-   "bandeira": "🇸🇾",
-   "continente": "asia",
-   "tamanho": 81556665,
-   "sha256": "ac9187e6670aada3ed40499c88761c3566000c078bcab209ec6b7985b160ef58",
-   "bbox": [
-    35.277097,
-    32.3066,
-    42.38383,
-    37.322394
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/sy.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/kg.pmtiles"
   },
   {
    "id": "lk",
@@ -4846,20 +4748,36 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/lk.pmtiles"
   },
   {
+   "id": "sy",
+   "nome": "Síria",
+   "bandeira": "🇸🇾",
+   "continente": "asia",
+   "tamanho": 81556665,
+   "sha256": "ac9187e6670aada3ed40499c88761c3566000c078bcab209ec6b7985b160ef58",
+   "bbox": [
+    35.277097,
+    32.3066,
+    42.38383,
+    37.322394
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/sy.pmtiles"
+  },
+  {
    "id": "tj",
    "nome": "Tadjiquistão",
    "bandeira": "🇹🇯",
    "continente": "asia",
-   "tamanho": 61847412,
-   "sha256": "ba725733000c9506fefa2076d85f4781293a5807a9d45a0d6962e8de75e5c53a",
+   "tamanho": 64105466,
+   "sha256": "0b25e04df3118bd93f201c2db2e9fd7b64fa5f3c94113522d8743402d04de776",
    "bbox": [
     67.320098,
     36.663738,
     75.16571,
     41.05502
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/tj.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/tj.pmtiles"
   },
   {
    "id": "th",
@@ -4892,22 +4810,6 @@
    ],
    "versao": "2026-11-18",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/tw.pmtiles"
-  },
-  {
-   "id": "ps",
-   "nome": "Territórios palestinos e Israel",
-   "bandeira": "🇵🇸",
-   "continente": "asia",
-   "tamanho": 81069309,
-   "sha256": "b4955ec7d908605d6052635257d778ea7913ab021edddd518a3bdd8fc5d971d9",
-   "bbox": [
-    33.999936,
-    29.439598,
-    35.91531,
-    33.454362
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ps.pmtiles"
   },
   {
    "id": "tl",
@@ -4974,6 +4876,104 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/vn.pmtiles"
   },
   {
+   "id": "in",
+   "nome": "Índia",
+   "bandeira": "🇮🇳",
+   "continente": "asia",
+   "estados": [
+    {
+     "id": "in-central-zone",
+     "nome": "Central Zone",
+     "sigla": "",
+     "tamanho": 419371243,
+     "sha256": "b504c5e31b89b514d56aa1bcf9e63f2aa1424203dcf1f9c9c8c133c7da256a33",
+     "bbox": [
+      74.014891,
+      17.770921,
+      84.646568,
+      31.728176
+     ],
+     "versao": "2026-11-15",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-central-zone.pmtiles"
+    },
+    {
+     "id": "in-eastern-zone",
+     "nome": "Eastern Zone",
+     "sigla": "",
+     "tamanho": 261535737,
+     "sha256": "de2044129f71df73336bd96a14ad8fb4d632fec2d6d81104e75b0aa18b76e067",
+     "bbox": [
+      81.367492,
+      17.780565,
+      89.918288,
+      27.989553
+     ],
+     "versao": "2026-11-15",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-eastern-zone.pmtiles"
+    },
+    {
+     "id": "in-north-eastern-zone",
+     "nome": "North-Eastern Zone",
+     "sigla": "",
+     "tamanho": 122234142,
+     "sha256": "f4afb9c248ee86ccec7c73254453215f0cdbe8f855d4717db3b7ce12d08fdfff",
+     "bbox": [
+      87.703846,
+      21.186983,
+      100.272206,
+      30.48656
+     ],
+     "versao": "2026-11-15",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-north-eastern-zone.pmtiles"
+    },
+    {
+     "id": "in-northern-zone",
+     "nome": "Northern Zone",
+     "sigla": "",
+     "tamanho": 286373211,
+     "sha256": "49a83bbf73ab16c71542e6f1dbcce153b6f68b288144f6116dfc4c06bf6edd7f",
+     "bbox": [
+      69.169911,
+      23.046881,
+      80.167546,
+      36.137884
+     ],
+     "versao": "2026-11-15",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-northern-zone.pmtiles"
+    },
+    {
+     "id": "in-southern-zone",
+     "nome": "Southern Zone",
+     "sigla": "",
+     "tamanho": 518902599,
+     "sha256": "7a198cb88f9d8c94c90700d8dc05e0a329365d8044f0b2380d3588fd0d7327fd",
+     "bbox": [
+      70.004872,
+      5.943921,
+      95.55906,
+      19.922681
+     ],
+     "versao": "2026-11-15",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-southern-zone.pmtiles"
+    },
+    {
+     "id": "in-western-zone",
+     "nome": "Western Zone",
+     "sigla": "",
+     "tamanho": 258980947,
+     "sha256": "8c26adfbce06babb29919a3854b0fac6c22532c1650a2962f4720eb4e50d3058",
+     "bbox": [
+      67.3022349,
+      14.370845,
+      80.913619,
+      25.446575
+     ],
+     "versao": "2026-11-15",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/in-western-zone.pmtiles"
+    }
+   ]
+  },
+  {
    "id": "al",
    "nome": "Albânia",
    "bandeira": "🇦🇱",
@@ -5022,20 +5022,36 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/aq.pmtiles"
   },
   {
-   "id": "at",
-   "nome": "Áustria",
-   "bandeira": "🇦🇹",
+   "id": "by",
+   "nome": "Bielorrússia",
+   "bandeira": "🇧🇾",
    "continente": "europa",
-   "tamanho": 579795074,
-   "sha256": "ab47001152dc65906bb4894042b7abe7406a767c8d4598b1f2f150bb7830936f",
+   "tamanho": 410770839,
+   "sha256": "e379709cc46faa2fbf51ba84bf2e3a7d999e610586f088105d888f761052e6ac",
    "bbox": [
-    9.52678,
-    46.369793,
-    17.164078,
-    49.02403
+    23.174801,
+    51.234408,
+    32.76947,
+    56.173846
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/at.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/by.pmtiles"
+  },
+  {
+   "id": "bg",
+   "nome": "Bulgária",
+   "bandeira": "🇧🇬",
+   "continente": "europa",
+   "tamanho": 192680475,
+   "sha256": "ebf996b8c80b958443b95bc26503c8ef4a478b330fd51531f8a56c4dbd424ce9",
+   "bbox": [
+    22.34875,
+    41.22681,
+    29.18819,
+    44.21777
+   ],
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/bg.pmtiles"
   },
   {
    "id": "be",
@@ -5054,22 +5070,6 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/be.pmtiles"
   },
   {
-   "id": "by",
-   "nome": "Bielorrússia",
-   "bandeira": "🇧🇾",
-   "continente": "europa",
-   "tamanho": 410770839,
-   "sha256": "e379709cc46faa2fbf51ba84bf2e3a7d999e610586f088105d888f761052e6ac",
-   "bbox": [
-    23.174801,
-    51.234408,
-    32.76947,
-    56.173846
-   ],
-   "versao": "2026-11-18",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/by.pmtiles"
-  },
-  {
    "id": "ba",
    "nome": "Bósnia e Herzegovina",
    "bandeira": "🇧🇦",
@@ -5084,22 +5084,6 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ba.pmtiles"
-  },
-  {
-   "id": "bg",
-   "nome": "Bulgária",
-   "bandeira": "🇧🇬",
-   "continente": "europa",
-   "tamanho": 192680475,
-   "sha256": "ebf996b8c80b958443b95bc26503c8ef4a478b330fd51531f8a56c4dbd424ce9",
-   "bbox": [
-    22.34875,
-    41.22681,
-    29.18819,
-    44.21777
-   ],
-   "versao": "2026-11-18",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/bg.pmtiles"
   },
   {
    "id": "cy",
@@ -5422,22 +5406,6 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/md.pmtiles"
   },
   {
-   "id": "mc",
-   "nome": "Mônaco",
-   "bandeira": "🇲🇨",
-   "continente": "europa",
-   "tamanho": 278112,
-   "sha256": "eebf75a0b2e2683d7445071aacce35f58dcaa838b6fd867a6d976ce8cee6e2fd",
-   "bbox": [
-    7.408583,
-    43.483817,
-    7.595671,
-    43.75293
-   ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mc.pmtiles"
-  },
-  {
    "id": "me",
    "nome": "Montenegro",
    "bandeira": "🇲🇪",
@@ -5452,6 +5420,22 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/me.pmtiles"
+  },
+  {
+   "id": "mc",
+   "nome": "Mônaco",
+   "bandeira": "🇲🇨",
+   "continente": "europa",
+   "tamanho": 278112,
+   "sha256": "eebf75a0b2e2683d7445071aacce35f58dcaa838b6fd867a6d976ce8cee6e2fd",
+   "bbox": [
+    7.408583,
+    43.483817,
+    7.595671,
+    43.75293
+   ],
+   "versao": "2026-11-15",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mc.pmtiles"
   },
   {
    "id": "no",
@@ -5825,31 +5809,31 @@
      "id": "ru-central-fed-district",
      "nome": "Central Federal District",
      "sigla": "",
-     "tamanho": 956023634,
-     "sha256": "709e0599f6c086c4c3e7c5f0c5707b45835a71c79880ca432a62b258ca8d449f",
+     "tamanho": 963401871,
+     "sha256": "ca99748b964a8191a86937390cd69d78d1d263241da23e123d7647d395ea320e",
      "bbox": [
       29.26809,
       48.79774,
       47.67023,
       59.6533
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ru-central-fed-district.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ru-central-fed-district.pmtiles"
     },
     {
      "id": "ru-crimean-fed-district",
      "nome": "Crimean Federal District",
      "sigla": "",
-     "tamanho": 36978142,
-     "sha256": "8b277094678d7fafd99397f4e9f57c064d183c55d457009d5c542566226ea41a",
+     "tamanho": 38481063,
+     "sha256": "06913b383ebecd91c06d7c2df62bf2ce28f36ec40e6a1d7a8812d81cc226ebd8",
      "bbox": [
       31.32914,
       43.84919,
       36.68355,
       46.57522
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ru-crimean-fed-district.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ru-crimean-fed-district.pmtiles"
     },
     {
      "id": "ru-far-eastern-fed-district",
@@ -5858,10 +5842,10 @@
      "tamanho": 449481521,
      "sha256": "a58c2a4d0f428a5708cf41f851f7611d558052612550bdd5fe9d1eede10ad6ac",
      "bbox": [
-      105,
-      41,
+      -180,
+      37.34659,
       180,
-      77.5
+      82.00023
      ],
      "versao": "2026-11-16",
      "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-16/ru-far-eastern-fed-district.pmtiles"
@@ -5870,31 +5854,31 @@
      "id": "ru-kaliningrad",
      "nome": "Kaliningrad",
      "sigla": "",
-     "tamanho": 33956861,
-     "sha256": "28c0e0221e1c9db590f703aa263cd09837a698a35079559e156df65c42e3ba07",
+     "tamanho": 34481919,
+     "sha256": "95e07dca5583d1d3aa8642bce71b10ecd28a76d5d4b3a5aba41e463471557f57",
      "bbox": [
       18.913317,
       54.317231,
       22.887466,
       55.645845
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ru-kaliningrad.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ru-kaliningrad.pmtiles"
     },
     {
      "id": "ru-north-caucasus-fed-district",
      "nome": "North Caucasus Federal District",
      "sigla": "",
-     "tamanho": 152401025,
-     "sha256": "4a1e3c89d5a5bd6d526fd5d13b4827ff7a8b69438696a9c5f8485acb3a2df897",
+     "tamanho": 154908640,
+     "sha256": "951b34f8f6f72ce9d520182e3643eb4c389a22065b76afc6a51d2c784e8ca09f",
      "bbox": [
       40.67265,
       40.25966,
       50.80178,
       46.23914
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ru-north-caucasus-fed-district.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ru-north-caucasus-fed-district.pmtiles"
     },
     {
      "id": "ru-northwestern-fed-district",
@@ -5930,16 +5914,16 @@
      "id": "ru-south-fed-district",
      "nome": "South Federal District",
      "sigla": "",
-     "tamanho": 349241623,
-     "sha256": "735278c22b294ce8395b4904de58f249a3812f9f29c5880e63278d73633412b2",
+     "tamanho": 354989729,
+     "sha256": "89b71d80cfc619790c836110719845e208c5fb266980486be4eb0eb171e7dccd",
      "bbox": [
       36.52315,
       42.62031,
       51.16607,
       51.2554
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ru-south-fed-district.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ru-south-fed-district.pmtiles"
     },
     {
      "id": "ru-ural-fed-district",
@@ -5974,22 +5958,6 @@
    ]
   },
   {
-   "id": "rs",
-   "nome": "Sérvia",
-   "bandeira": "🇷🇸",
-   "continente": "europa",
-   "tamanho": 214095754,
-   "sha256": "707d5705f107fbe33f4235a03e93855c75add25c1a8328fc95886d22114d371d",
-   "bbox": [
-    18.808937,
-    42.229789,
-    23.010349,
-    46.192072
-   ],
-   "versao": "2026-11-18",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/rs.pmtiles"
-  },
-  {
    "id": "se",
    "nome": "Suécia",
    "bandeira": "🇸🇪",
@@ -6004,6 +5972,22 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/se.pmtiles"
+  },
+  {
+   "id": "rs",
+   "nome": "Sérvia",
+   "bandeira": "🇷🇸",
+   "continente": "europa",
+   "tamanho": 214095754,
+   "sha256": "707d5705f107fbe33f4235a03e93855c75add25c1a8328fc95886d22114d371d",
+   "bbox": [
+    18.808937,
+    42.229789,
+    23.010349,
+    46.192072
+   ],
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/rs.pmtiles"
   },
   {
    "id": "cz",
@@ -6042,16 +6026,32 @@
    "nome": "Ucrânia",
    "bandeira": "🇺🇦",
    "continente": "europa",
-   "tamanho": 984315012,
-   "sha256": "28bc707fe66792698af8314cdaf0ba9e1cc1ee7690753ed3f540d33fa5f1dfc8",
+   "tamanho": 1019599313,
+   "sha256": "6d5ee61f56c15e3af8e53d4fb97cd034a68aec5efd37656d39144bd066d171e7",
    "bbox": [
     22.132644,
     44.008624,
     40.238113,
     52.386497
    ],
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ua.pmtiles"
+  },
+  {
+   "id": "at",
+   "nome": "Áustria",
+   "bandeira": "🇦🇹",
+   "continente": "europa",
+   "tamanho": 579795074,
+   "sha256": "ab47001152dc65906bb4894042b7abe7406a767c8d4598b1f2f150bb7830936f",
+   "bbox": [
+    9.52678,
+    46.369793,
+    17.164078,
+    49.02403
+   ],
    "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ua.pmtiles"
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/at.pmtiles"
   },
   {
    "id": "au",
