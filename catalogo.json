@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado": "2026-11-16",
+ "gerado": "2026-11-18",
  "fonte": "Mapas: © colaboradores do OpenStreetMap (ODbL), tiles no padrão OpenMapTiles gerados com tilemaker.",
  "paises": [
   {
@@ -4223,32 +4223,32 @@
    "nome": "Coreia do Norte",
    "bandeira": "🇰🇵",
    "continente": "asia",
-   "tamanho": 108765017,
-   "sha256": "0e30c38f09591fc729df7df26c09c5184bb3e99c3c4f2f170e4888ae2a11960b",
+   "tamanho": 111369216,
+   "sha256": "0696059f41c28901e24c36ae3b7a1dae2d06e0d33c3a228101e9f0f653b9c7c2",
    "bbox": [
     123.697,
     37.61103,
     131.6447,
     43.02043
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/kp.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/kp.pmtiles"
   },
   {
    "id": "kr",
    "nome": "Coreia do Sul",
    "bandeira": "🇰🇷",
    "continente": "asia",
-   "tamanho": 282965096,
-   "sha256": "c05bb7a26b317e2c7a94fedd7d25c830710b561be8a807b4aaf8f6d291294294",
+   "tamanho": 296240031,
+   "sha256": "72c630404831118419f4af9358d58514b593435d59891a811420be9072f4c636",
    "bbox": [
     124.3188,
     32.36076,
     132.3386,
     38.64966
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/kr.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/kr.pmtiles"
   },
   {
    "id": "ph",
@@ -4535,121 +4535,121 @@
      "id": "jp-chubu",
      "nome": "Chūbu region",
      "sigla": "",
-     "tamanho": 310971155,
-     "sha256": "b1b169aed20c3970fd274028a4459d98e5dfa63459ef7e2065710dac7c76f65a",
+     "tamanho": 315425297,
+     "sha256": "67e986c2c2b60ad2acad81ff754de82c7105ca66d4b295bdd09b6fb863faaf43",
      "bbox": [
       135.4393,
       34.2664899,
       139.909,
       38.90717
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-chubu.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-chubu.pmtiles"
     },
     {
      "id": "jp-chugoku",
      "nome": "Chūgoku region",
      "sigla": "",
-     "tamanho": 144154412,
-     "sha256": "6487598d650487a1df1554a86c5a87efa4cddb7d6ae4b84ba2d82a1823f5b74a",
+     "tamanho": 146888893,
+     "sha256": "b3c95be66f4260f6de628d66cc239bded2e4922eabef45c7baf9253b449da605",
      "bbox": [
       129.893915,
       33.54225,
       134.5244,
       37.082889
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-chugoku.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-chugoku.pmtiles"
     },
     {
      "id": "jp-hokkaido",
      "nome": "Hokkaidō",
      "sigla": "",
-     "tamanho": 148126933,
-     "sha256": "d7006048f483e6dadf2570283722a1a423e67377bfe494895e33cb49b632be5d",
+     "tamanho": 150633007,
+     "sha256": "dbd2beeb1b1a5355d712a3a31fea32fb0923776a2a2c33b4f7b7abe0a1613a68",
      "bbox": [
       137.934616,
       41.15098,
       146.247631,
       46.040273
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-hokkaido.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-hokkaido.pmtiles"
     },
     {
      "id": "jp-kansai",
      "nome": "Kansai region (a.k.a. Kinki region)",
      "sigla": "",
-     "tamanho": 206422380,
-     "sha256": "c72598ad9e8124ff17dd8783d42f0901b0bf78e6e6528e3275a64f05464bb9e7",
+     "tamanho": 211205778,
+     "sha256": "0eb9832c94d217431425c02eaeb3c8157456a1978bb84747ff3ea0a7007f6fa2",
      "bbox": [
       133.964396,
       33.0789789,
       137.657278,
       36.458201
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-kansai.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-kansai.pmtiles"
     },
     {
      "id": "jp-kanto",
      "nome": "Kantō region",
      "sigla": "",
-     "tamanho": 292133705,
-     "sha256": "dc7803b569dd24103373afab5d4e736e73d98baf1d6c311a6d7d525bdbccc6b9",
+     "tamanho": 298655643,
+     "sha256": "eb9d344355ad270de2ea6f2656866fd21e78bf8a984de92dfa760eeaa0291bab",
      "bbox": [
       134.045154,
       18.625054,
       155.605818,
       37.15988
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-kanto.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-kanto.pmtiles"
     },
     {
      "id": "jp-kyushu",
      "nome": "Kyūshū",
      "sigla": "",
-     "tamanho": 213245364,
-     "sha256": "48b1b837beae5499f738aa572f5ca82137af79ede56a8537d87b67bb6ecece6b",
+     "tamanho": 216298263,
+     "sha256": "d335e2438d905dca9f81d74d83d80b984120f484ac4e0b38a2569aa21aee4416",
      "bbox": [
       122.23438,
       20.725941,
       132.804417,
       35.097244
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-kyushu.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-kyushu.pmtiles"
     },
     {
      "id": "jp-shikoku",
      "nome": "Shikoku",
      "sigla": "",
-     "tamanho": 70595491,
-     "sha256": "91bd527a9f81a72a3113417d7ddaa679a1401c2cd8228fe61ce891dd863deb2c",
+     "tamanho": 71861131,
+     "sha256": "5005df72b57011c65b0b59721f14345c8d285c22602081d1c70c9bcd33fa7e6a",
      "bbox": [
       131.769819,
       32.229585,
       135.17938,
       34.65151
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-shikoku.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-shikoku.pmtiles"
     },
     {
      "id": "jp-tohoku",
      "nome": "Tōhoku region",
      "sigla": "",
-     "tamanho": 205921685,
-     "sha256": "5cc2a0f55a3679020cbceacee258a6849a26bc7bf9bd358f3a9b7933ec655038",
+     "tamanho": 208628914,
+     "sha256": "f83fa6f7343a7aebe9713cab93e401aaca6dfedcb0d9944ecc6bfc2cf61eda03",
      "bbox": [
       138.93248,
       36.528607,
       142.878194,
       41.641794
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jp-tohoku.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jp-tohoku.pmtiles"
     }
    ]
   },
@@ -4882,16 +4882,16 @@
    "nome": "Taiwan",
    "bandeira": "🇹🇼",
    "continente": "asia",
-   "tamanho": 151142001,
-   "sha256": "30130c60797c42d9cdab7b60a0ba4d3d447e63a73f4f9db3ee0247ef12aeecf1",
+   "tamanho": 155992959,
+   "sha256": "b3c8d03bdade95e6399b0bed32bed60824821153b6b54c6e1ea30bbe43e59d93",
    "bbox": [
     118.1036,
     20.72799,
     122.9312,
     26.60305
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/tw.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/tw.pmtiles"
   },
   {
    "id": "ps",
