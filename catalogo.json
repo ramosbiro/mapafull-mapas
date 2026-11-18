@@ -2333,16 +2333,16 @@
    "nome": "Argélia",
    "bandeira": "🇩🇿",
    "continente": "africa",
-   "tamanho": 238368368,
-   "sha256": "41657b74d3a2d304e0a77a7f21fb5db24b1213587eab094f64eea8ed66f6297e",
+   "tamanho": 243711527,
+   "sha256": "7a3a22013e97fa96a22191be4fb1519ae349a24558425f268ebadfe51fedf007",
    "bbox": [
     -8.704895,
     18.928737,
     12.035975,
     38.018304
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/dz.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/dz.pmtiles"
   },
   {
    "id": "bj",
@@ -2509,16 +2509,16 @@
    "nome": "Egito",
    "bandeira": "🇪🇬",
    "continente": "africa",
-   "tamanho": 166878209,
-   "sha256": "8f0570a0ab8ccbbc7aed843603644fcfbb47be04a38f766f4be3e41c9d6f7606",
+   "tamanho": 180758884,
+   "sha256": "66dd0d2a0aed94063bc0c535beccb31a7fddd3b2f2dcff128b170b8d5302b7db",
    "bbox": [
     24.626276,
     21.983803,
     37.162628,
     32.52518
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/eg.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/eg.pmtiles"
   },
   {
    "id": "er",
@@ -2685,16 +2685,16 @@
    "nome": "Líbia",
    "bandeira": "🇱🇾",
    "continente": "africa",
-   "tamanho": 78889043,
-   "sha256": "0dc2e15d8404e08a51c93341dc1ebcecf4433d28495d754d30f6b0ddc942501b",
+   "tamanho": 80685524,
+   "sha256": "a588b8eb3a39313ae3ee4fa525fdc7052d11e75aa8b77bca590e76dcec9a5689",
    "bbox": [
     9.374405,
     19.45087,
     25.407256,
     33.57972
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ly.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ly.pmtiles"
   },
   {
    "id": "mg",
@@ -2749,16 +2749,16 @@
    "nome": "Marrocos",
    "bandeira": "🇲🇦",
    "continente": "africa",
-   "tamanho": 229069104,
-   "sha256": "269114e2b79b0ee1bd627eb6c7f3cceaa61b56982973e20df1524d187de57da3",
+   "tamanho": 231990958,
+   "sha256": "96cf70c9c5308ce6a79cbe86a0fe504d3b68442548ba648f665c449279d46115",
    "bbox": [
     -18.183499,
     20.40373,
     -0.993576,
     36.16199
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ma.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ma.pmtiles"
   },
   {
    "id": "mr",
@@ -3085,16 +3085,16 @@
    "nome": "Tunísia",
    "bandeira": "🇹🇳",
    "continente": "africa",
-   "tamanho": 77821707,
-   "sha256": "96bbe09faa67d8f837a883b5e603fc094322f88e303569c7c2309fb37e96a435",
+   "tamanho": 79405600,
+   "sha256": "ccc006c372c21ffcc38d4e634f1fd73d94b8021406392afa508c30078ef9c910",
    "bbox": [
     7.513961,
     30.208642,
     12.127679,
     37.941381
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/tn.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/tn.pmtiles"
   },
   {
    "id": "ug",
@@ -4384,32 +4384,32 @@
    "nome": "Iraque",
    "bandeira": "🇮🇶",
    "continente": "asia",
-   "tamanho": 118425431,
-   "sha256": "7b24ff77f1e64cec3b746b7b97999b7b758841b33c3ae43dfdc5f1a7bcd6e975",
+   "tamanho": 125949747,
+   "sha256": "2389b22554869f3e4e80a1ff971ef2ec8ffe8999bcf4f60d936423de271ad246",
    "bbox": [
     38.784,
     29.01775,
     49.551084,
     37.39063
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/iq.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/iq.pmtiles"
   },
   {
    "id": "ir",
    "nome": "Irã",
    "bandeira": "🇮🇷",
    "continente": "asia",
-   "tamanho": 363753830,
-   "sha256": "405d977c84038401c88edc1872eddb02b0b0ec640b468c48b184d6cca6ba8adc",
+   "tamanho": 376773640,
+   "sha256": "ea812253865942099a99ff7d8bf832dcdff05e330353a5da37ecc12bf3ee75af",
    "bbox": [
     44.023033,
     24.039475,
     63.35413,
     39.790447
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ir.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ir.pmtiles"
   },
   {
    "id": "ps",
@@ -4576,16 +4576,16 @@
    "nome": "Jordânia",
    "bandeira": "🇯🇴",
    "continente": "asia",
-   "tamanho": 30763617,
-   "sha256": "6d07953c621d7179dd59f5558c35e22d26a172ab0d0fe76e3c6caf44d271d57a",
+   "tamanho": 32967809,
+   "sha256": "34e3ebf7083e1bfd3ddbf13b828ebd37f740c4e1c9d780d9937e33ce481b177c",
    "bbox": [
     34.86886,
     29.18213,
     39.31022,
     33.3792199
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/jo.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/jo.pmtiles"
   },
   {
    "id": "la",
@@ -4608,16 +4608,16 @@
    "nome": "Líbano",
    "bandeira": "🇱🇧",
    "continente": "asia",
-   "tamanho": 34542449,
-   "sha256": "948181a86f64a75b516c25d0cda997032848d4bf43d747f6c8239d5ab68b6dec",
+   "tamanho": 35297186,
+   "sha256": "5014a19a345cb14e5521a93fa6392e3cfbd859b1f68f2f947fd68d0f4346c0b3",
    "bbox": [
     34.76799,
     33.05299,
     36.636657,
     34.802529
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/lb.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/lb.pmtiles"
   },
   {
    "id": "mv",
@@ -4752,16 +4752,16 @@
    "nome": "Síria",
    "bandeira": "🇸🇾",
    "continente": "asia",
-   "tamanho": 81556665,
-   "sha256": "ac9187e6670aada3ed40499c88761c3566000c078bcab209ec6b7985b160ef58",
+   "tamanho": 85402562,
+   "sha256": "f1a2ed74b57ee9877d7c980f92029b98c76d0313f1796942e488261f6800427a",
    "bbox": [
     35.277097,
     32.3066,
     42.38383,
     37.322394
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/sy.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/sy.pmtiles"
   },
   {
    "id": "tj",
