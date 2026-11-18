@@ -2457,6 +2457,22 @@
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/td.pmtiles"
   },
   {
+   "id": "km",
+   "nome": "Comores",
+   "bandeira": "🇰🇲",
+   "continente": "africa",
+   "tamanho": 2813330,
+   "sha256": "c8ccab974017244bb88b2837dd86bdb98f070d8a1338ca9051bb5be02df7775f",
+   "bbox": [
+    42.749809,
+    -12.968996,
+    45.596611,
+    -10.741812
+   ],
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/km.pmtiles"
+  },
+  {
    "id": "cd",
    "nome": "Congo - Kinshasa",
    "bandeira": "🇨🇩",
@@ -5292,6 +5308,22 @@
    ],
    "versao": "2026-11-15",
    "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/is.pmtiles"
+  },
+  {
+   "id": "xk",
+   "nome": "Kosovo",
+   "bandeira": "🇽🇰",
+   "continente": "europa",
+   "tamanho": 29736797,
+   "sha256": "83c7686c347435b99e75dcf4c97a74b9ac82887f5d053871d50b119363b99fae",
+   "bbox": [
+    20.01357,
+    41.854079,
+    21.79327,
+    43.277534
+   ],
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/xk.pmtiles"
   },
   {
    "id": "lv",
