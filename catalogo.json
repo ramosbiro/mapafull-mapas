@@ -3608,16 +3608,16 @@
    "nome": "Armênia",
    "bandeira": "🇦🇲",
    "continente": "asia",
-   "tamanho": 47127481,
-   "sha256": "648a5811000b51fd0785e83ecd7bd4c7140e330a8f1a81420999b6ff162c97cb",
+   "tamanho": 48942514,
+   "sha256": "69486998bc5001f66aecb6c0ad69348e1439820120b10690f07334ad1fc4324d",
    "bbox": [
     43.43821,
     38.83743,
     46.64262,
     41.31029
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/am.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/am.pmtiles"
   },
   {
    "id": "az",
@@ -3905,16 +3905,16 @@
      "id": "cn-hong-kong",
      "nome": "Hong Kong",
      "sigla": "",
-     "tamanho": 19749596,
-     "sha256": "18d4b8463b2223f070e22b72f50c50e8f0d601e92c2868a32f8b7b70ee693c46",
+     "tamanho": 21321071,
+     "sha256": "29ebbdcff437d8a412b07f6e1e5b6b0029666e25c6420c9e30c934a01a4c3a35",
      "bbox": [
       113.813,
       22.130413,
       114.506,
       22.56904
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-hong-kong.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-hong-kong.pmtiles"
     },
     {
      "id": "cn-hubei",
@@ -4025,16 +4025,16 @@
      "id": "cn-macau",
      "nome": "Macau",
      "sigla": "",
-     "tamanho": 1639068,
-     "sha256": "55f4d65f4936eb332fbd5338ca9bdc55213b058287f234a2b924d5d5d8c51f5d",
+     "tamanho": 1875688,
+     "sha256": "5b30a89f74d183d8745f4ae2dd13d0fbe797438552bdcfa38eb3fc08a9d7457c",
      "bbox": [
       113.527222,
       22.075459,
       113.63245,
       22.217076
      ],
-     "versao": "2026-11-15",
-     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cn-macau.pmtiles"
+     "versao": "2026-11-18",
+     "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cn-macau.pmtiles"
     },
     {
      "id": "cn-ningxia",
@@ -5058,16 +5058,16 @@
    "nome": "Bielorrússia",
    "bandeira": "🇧🇾",
    "continente": "europa",
-   "tamanho": 394385102,
-   "sha256": "0641b586d97203c074b5c995ace4e0a85e60be7559f5334c4b45be398f0fa8b3",
+   "tamanho": 410770839,
+   "sha256": "e379709cc46faa2fbf51ba84bf2e3a7d999e610586f088105d888f761052e6ac",
    "bbox": [
     23.174801,
     51.234408,
     32.76947,
     56.173846
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/by.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/by.pmtiles"
   },
   {
    "id": "ba",
@@ -5090,32 +5090,32 @@
    "nome": "Bulgária",
    "bandeira": "🇧🇬",
    "continente": "europa",
-   "tamanho": 189587141,
-   "sha256": "e1314fe0ead35745ee2f1ba5017a033809bf367f2a6a77d571c60edaf3f0951d",
+   "tamanho": 192680475,
+   "sha256": "ebf996b8c80b958443b95bc26503c8ef4a478b330fd51531f8a56c4dbd424ce9",
    "bbox": [
     22.34875,
     41.22681,
     29.18819,
     44.21777
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/bg.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/bg.pmtiles"
   },
   {
    "id": "cy",
    "nome": "Chipre",
    "bandeira": "🇨🇾",
    "continente": "europa",
-   "tamanho": 32749398,
-   "sha256": "091c5b8433c77f22c35d60c4229238e4b333f6c842e94f78cb8c88f3957af6c6",
+   "tamanho": 33525969,
+   "sha256": "ebe77af8ece50f3e84348ee17a400c017e05648fa7871b349b023caffb95b8cf",
    "bbox": [
     31.95244,
     34.2337399,
     34.96147,
     36.00323
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/cy.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/cy.pmtiles"
   },
   {
    "id": "hr",
@@ -5218,32 +5218,32 @@
    "nome": "Geórgia",
    "bandeira": "🇬🇪",
    "continente": "europa",
-   "tamanho": 98853034,
-   "sha256": "cc08c6ace9300acdb8fc9b223d64fa8666e4c95399cac5d525fcc703ae5614b4",
+   "tamanho": 104056899,
+   "sha256": "68a68c2e2a6821675752b3b16a4324d695bbe7280896ec0add1d51d94694ff0e",
    "bbox": [
     39.88093,
     41.05117,
     46.73959,
     43.5899
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/ge.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/ge.pmtiles"
   },
   {
    "id": "gr",
    "nome": "Grécia",
    "bandeira": "🇬🇷",
    "continente": "europa",
-   "tamanho": 292889004,
-   "sha256": "8b9809abe269fb0891bd0b49446e9dc2ec7952a4f006952f2b31bfdd6d23a5ab",
+   "tamanho": 300977729,
+   "sha256": "2d0d66928fb0366458e09fb8a66137edddadfbc3d73771ece52574918bc36d59",
    "bbox": [
     18.970641,
     34.59111,
     29.65683,
     41.74954
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/gr.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/gr.pmtiles"
   },
   {
    "id": "hu",
@@ -5378,16 +5378,16 @@
    "nome": "Macedônia do Norte",
    "bandeira": "🇲🇰",
    "continente": "europa",
-   "tamanho": 32242899,
-   "sha256": "ae31da49f4afdea16c4dad0ca86d2674b45a73f26945b439e42e832b2dff787a",
+   "tamanho": 32927515,
+   "sha256": "f48103baad78201f19725d41a829de7babf9ec8ed00853b21c7f5961e768b386",
    "bbox": [
     20.44671,
     40.84759,
     23.04012,
     42.37969
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/mk.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/mk.pmtiles"
   },
   {
    "id": "mt",
@@ -5978,16 +5978,16 @@
    "nome": "Sérvia",
    "bandeira": "🇷🇸",
    "continente": "europa",
-   "tamanho": 207731633,
-   "sha256": "515c92f88d08d56da00530128bf293e06446c8c991fc4284738d3f2bda6cd2c1",
+   "tamanho": 214095754,
+   "sha256": "707d5705f107fbe33f4235a03e93855c75add25c1a8328fc95886d22114d371d",
    "bbox": [
     18.808937,
     42.229789,
     23.010349,
     46.192072
    ],
-   "versao": "2026-11-15",
-   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-15/rs.pmtiles"
+   "versao": "2026-11-18",
+   "url": "https://github.com/ramosbiro/mapafull-mapas/releases/download/mapas-2026-11-18/rs.pmtiles"
   },
   {
    "id": "se",
